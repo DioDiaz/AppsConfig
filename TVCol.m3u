@@ -36,11 +36,7 @@ http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/13776.ts.ts
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/13777.ts.ts
 
 
-#EXTINF:-1 ,Caracol Internacional HD
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/13778.ts.ts
-
-
-#EXTINF:-1 ,Caracol Internacional FHD
+#EXTINF:-1 ,Caracol Internacional
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/13779.ts.ts
 
 
@@ -60,16 +56,8 @@ http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/13782.ts.ts
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/13783.ts.ts
 
 
-#EXTINF:-1 ,RCN Nuestra Tele FHD
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/13784.ts.ts
-
-
 #EXTINF:-1 ,Cable Noticias HD
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/13786.ts.ts
-
-
-#EXTINF:-1  ,El Trece HD
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/13787.ts.ts
 
 
 #EXTINF:-1 ,NTN24 SD
@@ -80,10 +68,20 @@ http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/13788.ts.ts
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/13789.ts.ts
 
 
-#EXTINF:-1 , Telantioquia HD
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/13790.ts.ts
+#EXTINF:-1 ,Caracol HD 
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/13775.ts.ts
 
+#EXTINF:-1,Caracol HD 
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/13776.ts.ts
 
+#EXTINF:-1,Caracol FHD 
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/13777.ts.ts 
+
+#EXTINF:-1,Caracol Internacional HD 
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/13778.ts.ts 
+
+#EXTINF:-1 ,Caracol Internacional FHD 
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/13779.ts.ts 
 
 #EXTINF:-1 ,CARACOL HD2
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/13791.ts.ts
