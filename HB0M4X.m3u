@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="HBOCHIH",HBO HD MX (DG)
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46144.ts.ts
 
@@ -8,50 +9,50 @@ http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46145.ts.ts
 #EXTINF:-1 tvg-id="HBOCHIL" ,HBO CH(E)
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46146.ts.ts
 
-#EXTINF:-1 tvg-id="HBOCHIL" tvg-name="HBO CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s12288_ll_h3_aa.png" group-title="CINE PREMIUM",HBO CO(E)
+#EXTINF:-1 tvg-id="HBOCHIL" ,HBO CO(E)
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46147.ts.ts
 
-#EXTINF:-1 tvg-id="HBO2LA" tvg-name="HBO 2 SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s68140_ll_h3_aa.png" group-title="CINE PREMIUM",HBO 2 SD(E)
+#EXTINF:-1 tvg-id="HBO2LA",HBO 2 SD(E)
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46148.ts.ts
 
-#EXTINF:-1 tvg-id="HBO2LA" tvg-name="HBO 2 AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s68140_ll_h3_aa.png" group-title="CINE PREMIUM",HBO 2 AR(E)
+#EXTINF:-1 tvg-id="HBO2LA",HBO 2 AR(E)
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46149.ts.ts
 
-#EXTINF:-1 tvg-id="HBOCHIH" tvg-name="HBO 2 CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s10240_ll_h3_aa.png" group-title="CINE PREMIUM",HBO 2 CO(E)
+#EXTINF:-1 tvg-id="HBOCHIH",HBO 2 CO(E)
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46150.ts.ts
 
-#EXTINF:-1 tvg-id="HBO2PNH" tvg-name="HBO 2 HD MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s68140_ll_h3_aa.png" group-title="CINE PREMIUM",HBO 2 HD MX(E)
+#EXTINF:-1 tvg-id="HBO2PNH",HBO 2 HD MX(E)
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46151.ts.ts
 
-#EXTINF:-1 tvg-id="HBOFMHD" tvg-name="HBO Family AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s34879_h3_aa.png" group-title="CINE PREMIUM",HBO Family AR(E)
+#EXTINF:-1 tvg-id="HBOFMHD",HBO Family AR(E)
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46152.ts.ts
 
-#EXTINF:-1 tvg-id="DHBOFAM" tvg-name="HBO Family CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s34879_h3_aa.png" group-title="CINE PREMIUM",HBO Family CO(E)
+#EXTINF:-1 tvg-id="DHBOFAM",HBO Family CO(E)
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46153.ts.ts
 
-#EXTINF:-1 tvg-id="HBOFAM" tvg-name="HBO Family MX (DG)" tvg-logo="http://fanc.tmsimg.com/assets/s34879_h3_aa.png" group-title="CINE PREMIUM",HBO Family MX (DG)
+#EXTINF:-1 tvg-id="HBOFAM",HBO Family MX (DG)
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46154.ts.ts
 
-#EXTINF:-1 tvg-id="DHBOFAM" tvg-name="HBO Family HD" tvg-logo="http://fanc.tmsimg.com/assets/s34879_h3_aa.png" group-title="CINE PREMIUM",HBO Family HD
+#EXTINF:-1 tvg-id="DHBOFAM",HBO Family HD
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46155.ts.ts
 
-#EXTINF:-1 tvg-id="HBODA" tvg-name="HBO Plus AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s34725_ll_h3_aa.png" group-title="CINE PREMIUM",HBO Plus AR(E)
+#EXTINF:-1 tvg-id="HBODA",HBO Plus AR(E)
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46156.ts.ts
 
-#EXTINF:-1 tvg-id="HBODA" tvg-name="HBO Plus CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s34725_ll_h3_aa.png" group-title="CINE PREMIUM",HBO Plus CO(E)
+#EXTINF:-1 tvg-id="HBODA",HBO Plus CO(E)
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46157.ts.ts
 
-#EXTINF:-1 tvg-id="HBODA" tvg-name="HBO Plus HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s34725_ll_h3_aa.png" group-title="CINE PREMIUM",HBO Plus HD(E)
+#EXTINF:-1 tvg-id="HBODA",HBO Plus HD(E)
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46158.ts.ts
 
-#EXTINF:-1 tvg-id="HBODA" tvg-name="HBO Plus HD MX(CL)" tvg-logo="http://fanc.tmsimg.com/assets/s34725_ll_h3_aa.png" group-title="CINE PREMIUM",HBO Plus HD MX(CL)
+#EXTINF:-1 tvg-id="HBODA",HBO Plus HD MX(CL)
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46159.ts.ts
 
-#EXTINF:-1 tvg-id="HBOSDA" tvg-name="HBO Signature CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s80120_ll_h3_aa.png" group-title="CINE PREMIUM",HBO Signature CO(E)
+#EXTINF:-1 tvg-id="HBOSDA",HBO Signature CO(E)
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46161.ts.ts
 
-#EXTINF:-1 tvg-id="HBOSDA" tvg-name="HBO Signature MX(E)" tvg-logo="http://totalplay.site:8080/images/QNhoAepLnX2AaVVINg7vl1iS2nrwyBlFT99jfDL_5q1fjyptCTaaB0kJyJrxBfef773jx4INUTwmOC6EKEMOtw.png" group-title="CINE PREMIUM",HBO Signature MX(E)
+#EXTINF:-1 tvg-id="HBOSDA",HBO Signature MX(E)
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46162.ts.ts
 
-#EXTINF:-1 tvg-id="HBOSDA" tvg-name="HBO Signature HD(E)" tvg-logo="http://totalplay.site:8080/images/QNhoAepLnX2AaVVINg7vl1iS2nrwyBlFT99jfDL_5q1fjyptCTaaB0kJyJrxBfef773jx4INUTwmOC6EKEMOtw.png" group-title="CINE PREMIUM",HBO Signature HD(E)
+#EXTINF:-1 tvg-id="HBOSDA",HBO Signature HD(E)
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46163.ts.ts
