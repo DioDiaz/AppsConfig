@@ -1,0 +1,799 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AEARGHD" tvg-name="A&E FHD" tvg-logo="http://fanc.tmsimg.com/assets/s10035_ll_h3_ab.png" group-title="CINE PREMIUM",A&E FHD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46085.ts.ts
+#EXTINF:-1 tvg-id="AEAHAM" tvg-name="A&E HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s10035_ll_h3_ab.png" group-title="CINE PREMIUM",A&E HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46086.ts.ts
+#EXTINF:-1 tvg-id="AEMXHD" tvg-name="A&E MX (DG)" tvg-logo="http://fanc.tmsimg.com/assets/s10035_ll_h3_ab.png" group-title="CINE PREMIUM",A&E MX (DG)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46087.ts.ts
+#EXTINF:-1 tvg-id="AMCCOAM" tvg-name="AMC CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s90653_ll_h3_ac.png" group-title="CINE PREMIUM",AMC CO(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46089.ts.ts
+#EXTINF:-1 tvg-id="AMCCOAM" tvg-name="AMC AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s90653_ll_h3_ac.png" group-title="CINE PREMIUM",AMC AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46090.ts.ts
+#EXTINF:-1 tvg-id="AMCARHD" tvg-name="AMC HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s90653_ll_h3_ac.png" group-title="CINE PREMIUM",AMC HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46092.ts.ts
+#EXTINF:-1 tvg-id="AXNANHD" tvg-name="AXN CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s72534_ll_h3_ab.png" group-title="CINE PREMIUM",AXN CO(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46093.ts.ts
+#EXTINF:-1 tvg-id="AXNAHA" tvg-name="AXN MX(CLA)" tvg-logo="http://fanc.tmsimg.com/assets/s72534_ll_h3_ab.png" group-title="CINE PREMIUM",AXN MX(CLA)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46094.ts.ts
+#EXTINF:-1 tvg-id="AXNARG" tvg-name="AXN AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s17484_ll_h3_ab.png" group-title="CINE PREMIUM",AXN AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46095.ts.ts
+#EXTINF:-1 tvg-id="A3CINE" tvg-name="Atrescine MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s82808_ll_h3_aa.png" group-title="CINE PREMIUM",Atrescine MX(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46097.ts.ts
+#EXTINF:-1 tvg-id="A3CI" tvg-name="Atrescine AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s82808_ll_h3_aa.png" group-title="CINE PREMIUM",Atrescine AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46098.ts.ts
+#EXTINF:-1 tvg-id="ATRES" tvg-name="Atreseries AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s90917_ll_h3_ac.png" group-title="CINE PREMIUM",Atreseries AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46100.ts.ts
+#EXTINF:-1 tvg-id="CIHLAM" tvg-name="Az Cinema HD MX(E)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="CINE PREMIUM",Az Cinema HD MX(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46101.ts.ts
+#EXTINF:-1 tvg-id="CIHLAM" tvg-name="Az Cinema HD MX(DG)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="CINE PREMIUM",Az Cinema HD MX(DG)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46102.ts.ts
+#EXTINF:-1 tvg-id="CINL" tvg-name="Cine Latino SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s15296_ll_h3_ab.png" group-title="CINE PREMIUM",Cine Latino SD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46103.ts.ts
+#EXTINF:-1 tvg-id="CINL" tvg-name="Cine Latino AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s15296_ll_h3_ab.png" group-title="CINE PREMIUM",Cine Latino AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46104.ts.ts
+#EXTINF:-1 tvg-id="CINL" tvg-name="Cine Latino MX (DG)" tvg-logo="http://fanc.tmsimg.com/assets/s15296_ll_h3_ab.png" group-title="CINE PREMIUM",Cine Latino MX (DG)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46106.ts.ts
+#EXTINF:-1 tvg-id="CANALHD" tvg-name="Cinecanal SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE PREMIUM",Cinecanal SD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46107.ts.ts
+#EXTINF:-1 tvg-id="CANCOLD" tvg-name="Cinecanal CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE PREMIUM",Cinecanal CO(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46108.ts.ts
+#EXTINF:-1 tvg-id="CINCAC2" tvg-name="Cinecanal CH(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE PREMIUM",Cinecanal CH(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46109.ts.ts
+#EXTINF:-1 tvg-id="CCANAM" tvg-name="Cinecanal AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE PREMIUM",Cinecanal AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46110.ts.ts
+#EXTINF:-1 tvg-id="CINECHL" tvg-name="Cinemax HD (DG)" tvg-logo="http://fanc.tmsimg.com/assets/s16794_h3_aa.png" group-title="CINE PREMIUM",Cinemax HD (DG)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46111.ts.ts
+#EXTINF:-1 tvg-id="CINECHL" tvg-name="Cinemax AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s16794_h3_aa.png" group-title="CINE PREMIUM",Cinemax AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46112.ts.ts
+#EXTINF:-1 tvg-id="CINECHL" tvg-name="Cinemax HD MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s16794_h3_aa.png" group-title="CINE PREMIUM",Cinemax HD MX(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46114.ts.ts
+#EXTINF:-1 tvg-id="CINDINA" tvg-name="CINEMA DINAMITA HD(SL)" tvg-logo="http://fanc.tmsimg.com/assets/s82420_ll_h3_aa.png" group-title="CINE PREMIUM",CINEMA DINAMITA HD(SL)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46116.ts.ts
+#EXTINF:-1 tvg-id="DEPLPLA" tvg-name="DE PELICULA PLUS HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s74016_ll_h3_aa.png" group-title="CINE PREMIUM",DE PELICULA PLUS HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46118.ts.ts
+#EXTINF:-1 tvg-id="DEPELPL" tvg-name="DE PELICULA PLUS FHD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s74016_ll_h3_aa.png" group-title="CINE PREMIUM",DE PELICULA PLUS FHD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46119.ts.ts
+#EXTINF:-1 tvg-id="DEPEL" tvg-name="DE PELICULA HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s16288_ll_h3_ab.png" group-title="CINE PREMIUM",DE PELICULA HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46120.ts.ts
+#EXTINF:-1 tvg-id="DEPEL" tvg-name="DE PELICULA (E)" tvg-logo="http://fanc.tmsimg.com/assets/s16288_ll_h3_ab.png" group-title="CINE PREMIUM",DE PELICULA (E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46121.ts.ts
+#EXTINF:-1 tvg-id="CNLDHEH" tvg-name="DHE FHD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s81623_ll_h3_aa.png" group-title="CINE PREMIUM",DHE FHD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46122.ts.ts
+#EXTINF:-1 tvg-id="CNLDHEH" tvg-name="DHE SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s81623_ll_h3_aa.png" group-title="CINE PREMIUM",DHE SD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46123.ts.ts
+#EXTINF:-1 tvg-id="CNLDHEH" tvg-name="DHE HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s81623_ll_h3_aa.png" group-title="CINE PREMIUM",DHE HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46124.ts.ts
+#EXTINF:-1 tvg-id="EUROPHD" tvg-name="Europa Europa AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s27741_ll_h3_aa.png" group-title="CINE PREMIUM",Europa Europa AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46125.ts.ts
+#EXTINF:-1 tvg-id="EUROPAM" tvg-name="Europa Europa MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s27741_ll_h3_aa.png" group-title="CINE PREMIUM",Europa Europa MX(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46127.ts.ts
+#EXTINF:-1 tvg-id="FXCHD" tvg-name="FX (E)" tvg-logo="http://fanc.tmsimg.com/assets/s73682_ll_h3_aa.png" group-title="CINE PREMIUM",FX (E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46130.ts.ts
+#EXTINF:-1 tvg-id="FXCHD" tvg-name="FX HD AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s73682_ll_h3_aa.png" group-title="CINE PREMIUM",FX HD AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46132.ts.ts
+#EXTINF:-1 tvg-id="FXC" tvg-name="FX HD MX (DG)" tvg-logo="http://fanc.tmsimg.com/assets/s73681_ll_h3_aa.png" group-title="CINE PREMIUM",FX HD MX (DG)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46133.ts.ts
+#EXTINF:-1 tvg-id="GOLDNHD" tvg-name="GOLDEN PLUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/300?cb=20191215194002&path-prefix=es" group-title="CINE PREMIUM",GOLDEN PLUS
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46138.ts.ts
+#EXTINF:-1 tvg-id="GOLDNHD" tvg-name="GOLDEN PLUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/300?cb=20191215194002&path-prefix=es" group-title="CINE PREMIUM",GOLDEN PLUS
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46139.ts.ts
+#EXTINF:-1 tvg-id="GLDPRA" tvg-name="GOLDEN PREMIER" tvg-logo="http://fanc.tmsimg.com/assets/s80596_ll_h3_ab.png" group-title="CINE PREMIUM",GOLDEN PREMIER
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46140.ts.ts
+#EXTINF:-1 tvg-id="GLDPRA" tvg-name="GOLDEN PREMIER HD" tvg-logo="http://fanc.tmsimg.com/assets/s80596_ll_h3_ab.png" group-title="CINE PREMIUM",GOLDEN PREMIER HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46141.ts.ts
+#EXTINF:-1 tvg-id="GLDENH" tvg-name="GOLDEN SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s50709_ll_h3_aa.png" group-title="CINE PREMIUM",GOLDEN SD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46142.ts.ts
+#EXTINF:-1 tvg-id="GLDENH" tvg-name="GOLDEN HD" tvg-logo="http://fanc.tmsimg.com/assets/s50709_ll_h3_aa.png" group-title="CINE PREMIUM",GOLDEN HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46143.ts.ts
+#EXTINF:-1 tvg-id="HBOCHIH" tvg-name="HBO HD MX (DG)" tvg-logo="http://fanc.tmsimg.com/assets/s10240_ll_h3_aa.png" group-title="CINE PREMIUM",HBO HD MX (DG)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46144.ts.ts
+#EXTINF:-1 tvg-id="HBOCHIH" tvg-name="HBO AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s10240_ll_h3_aa.png" group-title="CINE PREMIUM",HBO AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46145.ts.ts
+#EXTINF:-1 tvg-id="HBOCHIL" tvg-name="HBO CH(E)" tvg-logo="http://fanc.tmsimg.com/assets/s12288_ll_h3_aa.png" group-title="CINE PREMIUM",HBO CH(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46146.ts.ts
+#EXTINF:-1 tvg-id="HBOCHIL" tvg-name="HBO CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s12288_ll_h3_aa.png" group-title="CINE PREMIUM",HBO CO(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46147.ts.ts
+#EXTINF:-1 tvg-id="HBO2LA" tvg-name="HBO 2 SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s68140_ll_h3_aa.png" group-title="CINE PREMIUM",HBO 2 SD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46148.ts.ts
+#EXTINF:-1 tvg-id="HBO2LA" tvg-name="HBO 2 AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s68140_ll_h3_aa.png" group-title="CINE PREMIUM",HBO 2 AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46149.ts.ts
+#EXTINF:-1 tvg-id="HBOCHIH" tvg-name="HBO 2 CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s10240_ll_h3_aa.png" group-title="CINE PREMIUM",HBO 2 CO(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46150.ts.ts
+#EXTINF:-1 tvg-id="HBO2PNH" tvg-name="HBO 2 HD MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s68140_ll_h3_aa.png" group-title="CINE PREMIUM",HBO 2 HD MX(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46151.ts.ts
+#EXTINF:-1 tvg-id="HBOFMHD" tvg-name="HBO Family AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s34879_h3_aa.png" group-title="CINE PREMIUM",HBO Family AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46152.ts.ts
+#EXTINF:-1 tvg-id="DHBOFAM" tvg-name="HBO Family CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s34879_h3_aa.png" group-title="CINE PREMIUM",HBO Family CO(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46153.ts.ts
+#EXTINF:-1 tvg-id="HBOFAM" tvg-name="HBO Family MX (DG)" tvg-logo="http://fanc.tmsimg.com/assets/s34879_h3_aa.png" group-title="CINE PREMIUM",HBO Family MX (DG)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46154.ts.ts
+#EXTINF:-1 tvg-id="DHBOFAM" tvg-name="HBO Family HD" tvg-logo="http://fanc.tmsimg.com/assets/s34879_h3_aa.png" group-title="CINE PREMIUM",HBO Family HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46155.ts.ts
+#EXTINF:-1 tvg-id="HBODA" tvg-name="HBO Plus AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s34725_ll_h3_aa.png" group-title="CINE PREMIUM",HBO Plus AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46156.ts.ts
+#EXTINF:-1 tvg-id="HBODA" tvg-name="HBO Plus CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s34725_ll_h3_aa.png" group-title="CINE PREMIUM",HBO Plus CO(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46157.ts.ts
+#EXTINF:-1 tvg-id="HBODA" tvg-name="HBO Plus HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s34725_ll_h3_aa.png" group-title="CINE PREMIUM",HBO Plus HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46158.ts.ts
+#EXTINF:-1 tvg-id="HBODA" tvg-name="HBO Plus HD MX(CL)" tvg-logo="http://fanc.tmsimg.com/assets/s34725_ll_h3_aa.png" group-title="CINE PREMIUM",HBO Plus HD MX(CL)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46159.ts.ts
+#EXTINF:-1 tvg-id="HBOSDA" tvg-name="HBO Signature CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s80120_ll_h3_aa.png" group-title="CINE PREMIUM",HBO Signature CO(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46161.ts.ts
+#EXTINF:-1 tvg-id="HBOSDA" tvg-name="HBO Signature MX(E)" tvg-logo="http://totalplay.site:8080/images/QNhoAepLnX2AaVVINg7vl1iS2nrwyBlFT99jfDL_5q1fjyptCTaaB0kJyJrxBfef773jx4INUTwmOC6EKEMOtw.png" group-title="CINE PREMIUM",HBO Signature MX(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46162.ts.ts
+#EXTINF:-1 tvg-id="HBOSDA" tvg-name="HBO Signature HD(E)" tvg-logo="http://totalplay.site:8080/images/QNhoAepLnX2AaVVINg7vl1iS2nrwyBlFT99jfDL_5q1fjyptCTaaB0kJyJrxBfef773jx4INUTwmOC6EKEMOtw.png" group-title="CINE PREMIUM",HBO Signature HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46163.ts.ts
+#EXTINF:-1 tvg-id="ISAT" tvg-name="I-SAT (E)" tvg-logo="http://fanc.tmsimg.com/assets/s16497_ll_h3_aa.png" group-title="CINE PREMIUM",I-SAT (E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46166.ts.ts
+#EXTINF:-1 tvg-id="ISAT" tvg-name="I-SAT MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s16497_ll_h3_aa.png" group-title="CINE PREMIUM",I-SAT MX(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46167.ts.ts
+#EXTINF:-1 tvg-id="MPREL" tvg-name="MULTIPREMIER SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s18169_ll_h3_ab.png" group-title="CINE PREMIUM",MULTIPREMIER SD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46168.ts.ts
+#EXTINF:-1 tvg-id="MPREL" tvg-name="MULTIPREMIER SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s18169_ll_h3_ab.png" group-title="CINE PREMIUM",MULTIPREMIER SD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46169.ts.ts
+#EXTINF:-1 tvg-id="PARMDA" tvg-name="Paramount Channel HD AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="CINE PREMIUM",Paramount Channel HD AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46170.ts.ts
+#EXTINF:-1 tvg-id="PARMDA" tvg-name="Paramount Channel HD AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="CINE PREMIUM",Paramount Channel HD AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46171.ts.ts
+#EXTINF:-1 tvg-id="PARMDA" tvg-name="Paramount Channel HD" tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="CINE PREMIUM",Paramount Channel HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46172.ts.ts
+#EXTINF:-1 tvg-id="SETL" tvg-name="Sony AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s19385_ll_h3_ab.png" group-title="CINE PREMIUM",Sony AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46175.ts.ts
+#EXTINF:-1 tvg-id="SENTTVH" tvg-name="Sony CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s19385_ll_h3_ab.png" group-title="CINE PREMIUM",Sony CO(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46176.ts.ts
+#EXTINF:-1 tvg-id="SETLV" tvg-name="Sony HD MX (CL)" tvg-logo="http://fanc.tmsimg.com/assets/s19385_h3_aa.png" group-title="CINE PREMIUM",Sony HD MX (CL)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46177.ts.ts
+#EXTINF:-1 tvg-id="SPACEHD" tvg-name="SPACE CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s68021_ll_h3_aa.png" group-title="CINE PREMIUM",SPACE CO(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46178.ts.ts
+#EXTINF:-1 tvg-id="SPACEHD" tvg-name="Space HD AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s68021_ll_h3_aa.png" group-title="CINE PREMIUM",Space HD AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46179.ts.ts
+#EXTINF:-1 tvg-id="SPACMHD" tvg-name="Space HD MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s68021_ll_h3_aa.png" group-title="CINE PREMIUM",Space HD MX(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46180.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR Channel HD" tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg" group-title="CINE PREMIUM",STAR Channel HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46186.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR Channel HD (DG)" tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg" group-title="CINE PREMIUM",STAR Channel HD (DG)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46188.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR Channel FHD" tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg" group-title="CINE PREMIUM",STAR Channel FHD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46189.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Classics HD AR(E)" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6091a7e240a7ba157e70709d_star-classics.jpeg" group-title="CINE PREMIUM",Star Classics HD AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46195.ts.ts
+#EXTINF:-1 tvg-id="STULCOH" tvg-name="Studio Universal (E)" tvg-logo="http://fanc.tmsimg.com/assets/s29017_ll_h3_aa.png" group-title="CINE PREMIUM",Studio Universal (E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46217.ts.ts
+#EXTINF:-1 tvg-id="STULA" tvg-name="Studio Universal CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s29017_ll_h3_aa.png" group-title="CINE PREMIUM",Studio Universal CO(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46218.ts.ts
+#EXTINF:-1 tvg-id="STULA" tvg-name="Studio Universal AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s29017_ll_h3_aa.png" group-title="CINE PREMIUM",Studio Universal AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46219.ts.ts
+#EXTINF:-1 tvg-id="STULA" tvg-name="Studio Universal MX (DG)" tvg-logo="http://fanc.tmsimg.com/assets/s29017_ll_h3_aa.png" group-title="CINE PREMIUM",Studio Universal MX (DG)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46220.ts.ts
+#EXTINF:-1 tvg-id="SYFYHA" tvg-name="SyFy AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s56727_ll_h3_aa.png" group-title="CINE PREMIUM",SyFy AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46222.ts.ts
+#EXTINF:-1 tvg-id="SYFYHA" tvg-name="SyFy CH(E)" tvg-logo="http://fanc.tmsimg.com/assets/s56727_ll_h3_aa.png" group-title="CINE PREMIUM",SyFy CH(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46223.ts.ts
+#EXTINF:-1 tvg-id="SYFYHA" tvg-name="SyFy MX(DG)" tvg-logo="http://fanc.tmsimg.com/assets/s56727_ll_h3_aa.png" group-title="CINE PREMIUM",SyFy MX(DG)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46224.ts.ts
+#EXTINF:-1 tvg-id="TBSESPH" tvg-name="TBS AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s75073_ll_h3_ad.png" group-title="CINE PREMIUM",TBS AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46226.ts.ts
+#EXTINF:-1 tvg-id="TBSESPH" tvg-name="TBS CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s75073_ll_h3_ad.png" group-title="CINE PREMIUM",TBS CO(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46227.ts.ts
+#EXTINF:-1 tvg-id="TBSESLA" tvg-name="TBS MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s75073_ll_h3_ad.png" group-title="CINE PREMIUM",TBS MX(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46228.ts.ts
+#EXTINF:-1 tvg-id="TCMLC" tvg-name="TCM AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s19246_ll_h3_aa.png" group-title="CINE PREMIUM",TCM AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46230.ts.ts
+#EXTINF:-1 tvg-id="TCMAAM" tvg-name="TCM CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s19246_ll_h3_aa.png" group-title="CINE PREMIUM",TCM CO(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46231.ts.ts
+#EXTINF:-1 tvg-id="TCMAAM" tvg-name="TCM MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s19246_ll_h3_aa.png" group-title="CINE PREMIUM",TCM MX(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46232.ts.ts
+#EXTINF:-1 tvg-id="TNTLVHD" tvg-name="TNT SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s71727_ll_h3_aa.png" group-title="CINE PREMIUM",TNT SD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46236.ts.ts
+#EXTINF:-1 tvg-id="TNTARA" tvg-name="TNT AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s71727_ll_h3_aa.png" group-title="CINE PREMIUM",TNT AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46237.ts.ts
+#EXTINF:-1 tvg-id="TNTARA" tvg-name="TNT CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s71727_ll_h3_aa.png" group-title="CINE PREMIUM",TNT CO(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46238.ts.ts
+#EXTINF:-1 tvg-id="TNTARA" tvg-name="TNT HD MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s71727_ll_h3_aa.png" group-title="CINE PREMIUM",TNT HD MX(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46239.ts.ts
+#EXTINF:-1 tvg-id="TNTSEAM" tvg-name="TNT Series MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s91993_ll_h3_aa.png" group-title="CINE PREMIUM",TNT Series MX(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46240.ts.ts
+#EXTINF:-1 tvg-id="TNTSEAM" tvg-name="TNT series AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s91993_ll_h3_aa.png" group-title="CINE PREMIUM",TNT series AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46241.ts.ts
+#EXTINF:-1 tvg-id="TNTSEAM" tvg-name="TNT series CO HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s91993_ll_h3_aa.png" group-title="CINE PREMIUM",TNT series CO HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46242.ts.ts
+#EXTINF:-1 tvg-id="TNTSER" tvg-name="TNT series HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s91993_ll_h3_aa.png" group-title="CINE PREMIUM",TNT series HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46243.ts.ts
+#EXTINF:-1 tvg-id="STULCOH" tvg-name="Universal HD(E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="CINE PREMIUM",Universal HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46244.ts.ts
+#EXTINF:-1 tvg-id="UNTVARH" tvg-name="Universal AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s53218_h3_aa.png" group-title="CINE PREMIUM",Universal AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46245.ts.ts
+#EXTINF:-1 tvg-id="UNTVARH" tvg-name="Universal CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s53218_h3_aa.png" group-title="CINE PREMIUM",Universal CO(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46246.ts.ts
+#EXTINF:-1 tvg-id="STULCOH" tvg-name="Universal MX(E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="CINE PREMIUM",Universal MX(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46247.ts.ts
+#EXTINF:-1 tvg-id="WARHAM" tvg-name="Warner Channel SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s16213_ll_h3_ab.png" group-title="CINE PREMIUM",Warner Channel SD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46248.ts.ts
+#EXTINF:-1 tvg-id="OLEAND" tvg-name="Warner Channel AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s16213_ll_h3_ab.png" group-title="CINE PREMIUM",Warner Channel AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46249.ts.ts
+#EXTINF:-1 tvg-id="WARCOL" tvg-name="Warner Channel CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s16213_ll_h3_ab.png" group-title="CINE PREMIUM",Warner Channel CO(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46250.ts.ts
+#EXTINF:-1 tvg-id="WARHAM" tvg-name="Warner Channel HD MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s16213_ll_h3_ab.png" group-title="CINE PREMIUM",Warner Channel HD MX(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46251.ts.ts
+#EXTINF:-1 tvg-id="MORBTV" tvg-name="Cine | Morbido TV FHD" tvg-logo="http://fanc.tmsimg.com/assets/s107890_ll_h3_aa.png" group-title="CINE PREMIUM",Cine | Morbido TV FHD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79427.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVERSAL REALITY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Universal_Reality_2021.png/revision/latest?cb=20220102015650&path-prefix=es" group-title="CINE PREMIUM",UNIVERSAL REALITY
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/90077.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" group-title="CINE PREMIUM",UNIVERSAL CINEMA
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/90078.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVERSAL CRIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Universal_Crime_logo.png" group-title="CINE PREMIUM",UNIVERSAL CRIME
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/90079.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest?cb=20220102015318&path-prefix=es" group-title="CINE PREMIUM",UNIVERSAL COMEDY
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/90081.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVERSAL PREMIERE 2 HD" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.604426719_UniversalPremiere.png.12f05e2df4549f210ad2f2219770e237.png" group-title="CINE PREMIUM",UNIVERSAL PREMIERE 2 HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/90082.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.604426719_UniversalPremiere.png.12f05e2df4549f210ad2f2219770e237.png" group-title="CINE PREMIUM",UNIVERSAL PREMIERE HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/90083.ts.ts
+#EXTINF:-1 tvg-id="POPAM" tvg-name="HBO POP FHD" tvg-logo="http://fanc.tmsimg.com/assets/s68134_ll_h3_ab.png" group-title="CINE PREMIUM",HBO POP FHD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/96201.ts.ts
+#EXTINF:-1 tvg-id="POPAM" tvg-name="HBO POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="CINE PREMIUM",HBO POP HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/96202.ts.ts
+#EXTINF:-1 tvg-id="POPAM" tvg-name="HBO POP SD" tvg-logo="http://fanc.tmsimg.com/assets/s68134_ll_h3_ab.png" group-title="CINE PREMIUM",HBO POP SD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/96203.ts.ts
+#EXTINF:-1 tvg-id="MUNCASH" tvg-name="HBO MUNDI HD" tvg-logo="http://fanc.tmsimg.com/assets/s70081_ll_h3_ab.png" group-title="CINE PREMIUM",HBO MUNDI HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/96204.ts.ts
+#EXTINF:-1 tvg-id="MUNCASH" tvg-name="HBO MUNDI HD" tvg-logo="http://fanc.tmsimg.com/assets/s70081_ll_h3_ab.png" group-title="CINE PREMIUM",HBO MUNDI HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/96205.ts.ts
+#EXTINF:-1 tvg-id="MUNAMC" tvg-name="HBO MUNDI SD" tvg-logo="http://fanc.tmsimg.com/assets/s70081_h3_aa.png" group-title="CINE PREMIUM",HBO MUNDI SD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/96206.ts.ts
+#EXTINF:-1 tvg-id="HBOXA2" tvg-name="HBO XTREME HD" tvg-logo="http://fanc.tmsimg.com/assets/s80211_ll_h3_ab.png" group-title="CINE PREMIUM",HBO XTREME HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/96207.ts.ts
+#EXTINF:-1 tvg-id="HBOXA2" tvg-name="HBO XTREME HD" tvg-logo="http://fanc.tmsimg.com/assets/s80211_ll_h3_ab.png" group-title="CINE PREMIUM",HBO XTREME HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/96208.ts.ts
+#EXTINF:-1 tvg-id="HBOXA2" tvg-name="HBO XTREME FHD" tvg-logo="http://fanc.tmsimg.com/assets/s80211_ll_h3_ab.png" group-title="CINE PREMIUM",HBO XTREME FHD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/96209.ts.ts
+#EXTINF:-1 tvg-id="MCINLHD" tvg-name="Multicinema" tvg-logo="http://fanc.tmsimg.com/assets/s18329_ll_h3_aa.png" group-title="CINE PREMIUM",Multicinema
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/140365.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE ESTELAR" tvg-logo="" group-title="CINE PREMIUM",CINE ESTELAR
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/148901.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY COMEDIAS" tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="CINE PREMIUM",SONY COMEDIAS
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/149223.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY NOVELAS" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/sony_NOVELAS_1.jpg" group-title="CINE PREMIUM",SONY NOVELAS
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/149224.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Espanol HD" tvg-logo="http://static.epgguide.net/icon/starzencoreespanol.us.png" group-title="CINE PREMIUM",Starz Encore Espanol HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/167707.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Espanol HD" tvg-logo="http://static.epgguide.net/icon/starzencoreespanol.us.png" group-title="CINE PREMIUM",Starz Encore Espanol HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/167708.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE| Starz Cinema HD" tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="CINE PREMIUM",CINE| Starz Cinema HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/167709.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Comedy HD" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" group-title="CINE PREMIUM",Starz Comedy HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/167710.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz East HD" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="CINE PREMIUM",Starz East HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/167711.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Edge HD" tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="CINE PREMIUM",Starz Edge HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/167712.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Black HD" tvg-logo="" group-title="CINE PREMIUM",Starz Encore Black HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/167713.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Classic HD" tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="CINE PREMIUM",Starz Encore Classic HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/167714.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Family HD" tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png" group-title="CINE PREMIUM",Starz Encore Family HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/167715.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Suspense HD" tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="CINE PREMIUM",Starz Encore Suspense HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/167717.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Western HD" tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="CINE PREMIUM",Starz Encore Western HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/167718.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz HD" tvg-logo="" group-title="CINE PREMIUM",Starz HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/167719.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz West HD" tvg-logo="https://static.epg.best/us/StarzWest.us.png" group-title="CINE PREMIUM",Starz West HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/167720.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Mexicano" tvg-logo="" group-title="CINE PREMIUM",Cine Mexicano
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205870.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dreamworks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png" group-title="CINE PREMIUM",Dreamworks
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/206517.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema DC Universe HD" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="EXTRA CINE",Cinema DC Universe HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/140943.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema Lego Movies HD" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="EXTRA CINE",Cinema Lego Movies HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/140944.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA | Starz East HD" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="EXTRA CINE",LA | Starz East HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/140962.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tu Cine 2" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="EXTRA CINE",Tu Cine 2
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/140987.ts.ts
+#EXTINF:-1 tvg-id="CDINA" tvg-name="Cine TV: Cinema Dinamita" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="EXTRA CINE",Cine TV: Cinema Dinamita
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/140992.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Butaca TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6FIEjH78ysfaha3XmxO2KsL-W_frB3yZ5_5mwOK80ZjGlUY-oWXCvWK258YefOBtb4s&usqp=CAU" group-title="EXTRA CINE",Butaca TV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205724.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema Accion 1" tvg-logo="https://previews.123rf.com/images/pandavector/pandavector1701/pandavector170104625/70291076-icono-de-letrero-de-cine-en-estilo-de-dibujos-animados-aislado-sobre-fondo-blanco-pel%C3%ADculas-y-cine-s.jpg" group-title="EXTRA CINE",Cinema Accion 1
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205725.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema Animacion" tvg-logo="https://previews.123rf.com/images/pandavector/pandavector1701/pandavector170104625/70291076-icono-de-letrero-de-cine-en-estilo-de-dibujos-animados-aislado-sobre-fondo-blanco-pel%C3%ADculas-y-cine-s.jpg" group-title="EXTRA CINE",Cinema Animacion
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205726.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY TIME PELÍCULAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdPWG44DOMsWwB7AYrHhJ3q05VkO5COH-qsg&usqp=CAU" group-title="EXTRA CINE",MY TIME PELÍCULAS
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205727.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY TIME PELÍCULAS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdPWG44DOMsWwB7AYrHhJ3q05VkO5COH-qsg&usqp=CAU" group-title="EXTRA CINE",MY TIME PELÍCULAS 1
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205728.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MyTime movie network Spain" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSj8iMEDzbjBWhaI7hp1Wg7QR3vYrUMgJVrR_5_=s900-c-k-c0x00ffffff-no-rj" group-title="EXTRA CINE",MyTime movie network Spain
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205729.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MyTime movie network Mexico" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSj8iMEDzbjBWhaI7hp1Wg7QR3vYrUMgJVrR_5_=s900-c-k-c0x00ffffff-no-rj" group-title="EXTRA CINE",MyTime movie network Mexico
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205730.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Horrorfy" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2022/06/Horrorfy.jpg" group-title="EXTRA CINE",Horrorfy
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205732.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BITME HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmXWdJvk_Or0LsVAXOzmsFKG8E7xnkXxiYQopL8xn25g8FLrBasx7htlTrPwhYyehZPJE&usqp=CAU" group-title="EXTRA CINE",BITME HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205733.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PELIMEX" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/pelimex-v2.jpg" group-title="EXTRA CINE",PELIMEX
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205734.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FLOW CINE" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/diseno_sin_titulo_17.jpg" group-title="EXTRA CINE",FLOW CINE
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205735.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 1" tvg-logo="https://image.shutterstock.com/image-vector/cinema-movie-time-concept-theater-600w-746969203.jpg" group-title="EXTRA CINE",CINEMA 1
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205736.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 2" tvg-logo="https://image.shutterstock.com/image-vector/cinema-movie-time-concept-theater-600w-746969203.jpg" group-title="EXTRA CINE",CINEMA 2
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205737.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 3" tvg-logo="https://image.shutterstock.com/image-vector/cinema-movie-time-concept-theater-600w-746969203.jpg" group-title="EXTRA CINE",CINEMA 3
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205738.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 4" tvg-logo="https://image.shutterstock.com/image-vector/cinema-movie-time-concept-theater-600w-746969203.jpg" group-title="EXTRA CINE",CINEMA 4
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205739.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 5" tvg-logo="https://image.shutterstock.com/image-vector/cinema-movie-time-concept-theater-600w-746969203.jpg" group-title="EXTRA CINE",CINEMA 5
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205740.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 6" tvg-logo="https://image.shutterstock.com/image-vector/cinema-movie-time-concept-theater-600w-746969203.jpg" group-title="EXTRA CINE",CINEMA 6
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205741.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 7" tvg-logo="https://image.shutterstock.com/image-vector/cinema-movie-time-concept-theater-600w-746969203.jpg" group-title="EXTRA CINE",CINEMA 7
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205742.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 8" tvg-logo="https://image.shutterstock.com/image-vector/cinema-movie-time-concept-theater-600w-746969203.jpg" group-title="EXTRA CINE",CINEMA 8
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205743.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 9" tvg-logo="https://image.shutterstock.com/image-vector/cinema-movie-time-concept-theater-600w-746969203.jpg" group-title="EXTRA CINE",CINEMA 9
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205744.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 10" tvg-logo="https://image.shutterstock.com/image-vector/cinema-movie-time-concept-theater-600w-746969203.jpg" group-title="EXTRA CINE",CINEMA 10
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205745.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 11" tvg-logo="https://image.shutterstock.com/image-vector/cinema-movie-time-concept-theater-600w-746969203.jpg" group-title="EXTRA CINE",CINEMA 11
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205746.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 12" tvg-logo="https://image.shutterstock.com/image-vector/cinema-movie-time-concept-theater-600w-746969203.jpg" group-title="EXTRA CINE",CINEMA 12
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205747.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 13" tvg-logo="https://image.shutterstock.com/image-vector/cinema-movie-time-concept-theater-600w-746969203.jpg" group-title="EXTRA CINE",CINEMA 13
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205748.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 01 PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="EXTRA CINE",LA_FHD:Cinema 01 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205749.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 02 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 02 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205750.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 03 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 03 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205751.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 04 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 04 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205752.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 05 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 05 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205753.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 06 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 06 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205754.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 07 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 07 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205755.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 08 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 08 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205756.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 09 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 09 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205757.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 10 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 10 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205758.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 11 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 11 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205759.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 12 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 12 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205760.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 13 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 13 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205761.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 14 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 14 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205762.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 15 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 15 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205763.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 16 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 16 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205764.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 17 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 17 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205765.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 18 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 18 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205766.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 19 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 19 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205767.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 20 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 20 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205768.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 21 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 21 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205769.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 22 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 22 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205770.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 23 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 23 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205771.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 25 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 25 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205772.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 26 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 26 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205773.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 27 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 27 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205774.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 29 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 29 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205775.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 30 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 30 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205776.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 31 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 31 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205777.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 32 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 32 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205778.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 33 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 33 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205779.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 35 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 35 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205780.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 34 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 34 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205781.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 36 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 36 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205782.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA_FHD:Cinema 37 PPV" tvg-logo="" group-title="EXTRA CINE",LA_FHD:Cinema 37 PPV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205783.ts.ts
+#EXTINF:-1 tvg-id="FABLHDA" tvg-name="FILM & ARTS SD" tvg-logo="http://fanc.tmsimg.com/assets/s87687_ll_h3_aa.png" group-title="CULTURA",FILM & ARTS SD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46128.ts.ts
+#EXTINF:-1 tvg-id="FAMEXHD" tvg-name="Film & arts HD" tvg-logo="http://fanc.tmsimg.com/assets/s87687_ll_h3_aa.png" group-title="CULTURA",Film & arts HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46129.ts.ts
+#EXTINF:-1 tvg-id="ANIPAA2" tvg-name="Animal Planet HD AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s18649_ll_h3_af.png" group-title="CULTURA",Animal Planet HD AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79446.ts.ts
+#EXTINF:-1 tvg-id="ANIPLAM" tvg-name="Animal Planet HD MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s18649_ll_h3_af.png" group-title="CULTURA",Animal Planet HD MX(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79447.ts.ts
+#EXTINF:-1 tvg-id="CNCRTHD" tvg-name="Concert Channel" tvg-logo="http://fanc.tmsimg.com/assets/s72020_ll_h3_aa.png" group-title="CULTURA",Concert Channel
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79448.ts.ts
+#EXTINF:-1 tvg-id="CGTNEH" tvg-name="CGTN ESPAÑOL HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s44479_h3_aa.png" group-title="CULTURA",CGTN ESPAÑOL HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79450.ts.ts
+#EXTINF:-1 tvg-id="CDLC" tvg-name="Canal De La Ciudad HD" tvg-logo="http://fanc.tmsimg.com/assets/s109691_ll_h3_aa.png" group-title="CULTURA",Canal De La Ciudad HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79451.ts.ts
+#EXTINF:-1 tvg-id="TDCLAM" tvg-name="Discovery Channel AR HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s15798_ll_h3_ab.png" group-title="CULTURA",Discovery Channel AR HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79453.ts.ts
+#EXTINF:-1 tvg-id="TDCLAM" tvg-name="Discovery Channel Mexico MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s15798_ll_h3_ab.png" group-title="CULTURA",Discovery Channel Mexico MX HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79454.ts.ts
+#EXTINF:-1 tvg-id="DCIVLA" tvg-name="Discovery Civilization" tvg-logo="http://fanc.tmsimg.com/assets/s46609_ll_h3_aa.png" group-title="CULTURA",Discovery Civilization
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79455.ts.ts
+#EXTINF:-1 tvg-id="DFAMHD" tvg-name="Discovery Family" tvg-logo="http://fanc.tmsimg.com/assets/s99630_ll_h3_aa.png" group-title="CULTURA",Discovery Family
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79456.ts.ts
+#EXTINF:-1 tvg-id="IDLA" tvg-name="Discovery ID AR HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s25743_h3_aa.png" group-title="CULTURA",Discovery ID AR HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79457.ts.ts
+#EXTINF:-1 tvg-id="IDLA" tvg-name="Discovery ID MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s25743_h3_aa.png" group-title="CULTURA",Discovery ID MX HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79458.ts.ts
+#EXTINF:-1 tvg-id="DHHCV" tvg-name="Discovery Home & Health" tvg-logo="http://fanc.tmsimg.com/assets/s24424_ll_h3_aa.png" group-title="CULTURA",Discovery Home & Health
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79459.ts.ts
+#EXTINF:-1 tvg-id="DHHCV" tvg-name="Discovery Home & Health HD" tvg-logo="http://fanc.tmsimg.com/assets/s24424_ll_h3_aa.png" group-title="CULTURA",Discovery Home & Health HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79460.ts.ts
+#EXTINF:-1 tvg-id="DSCIENH" tvg-name="Discovery Science" tvg-logo="http://fanc.tmsimg.com/assets/s48527_ll_h3_aa.png" group-title="CULTURA",Discovery Science
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79463.ts.ts
+#EXTINF:-1 tvg-id="DTHLAM" tvg-name="Discovery Theater MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s65940_ll_h3_aa.png" group-title="CULTURA",Discovery Theater MX HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79464.ts.ts
+#EXTINF:-1 tvg-id="DTRBLAH" tvg-name="Discovery Turbo MX HD(D)" tvg-logo="http://fanc.tmsimg.com/assets/s46608_ll_h3_aa.png" group-title="CULTURA",Discovery Turbo MX HD(D)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79465.ts.ts
+#EXTINF:-1 tvg-id="DTRBLAH" tvg-name="Discovery Turbo MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s46608_ll_h3_aa.png" group-title="CULTURA",Discovery Turbo MX HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79466.ts.ts
+#EXTINF:-1 tvg-id="DWRLDA" tvg-name="Discovery World MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s66488_ll_h3_aa.png" group-title="CULTURA",Discovery World MX HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79467.ts.ts
+#EXTINF:-1 tvg-id="DWRLDHD" tvg-name="Discovery World MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s66488_ll_h3_aa.png" group-title="CULTURA",Discovery World MX HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79468.ts.ts
+#EXTINF:-1 tvg-id="GOURNSD" tvg-name="El Gourmet MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s25553_ll_h3_ac.png" group-title="CULTURA",El Gourmet MX HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79469.ts.ts
+#EXTINF:-1 tvg-id="GOURNSD" tvg-name="El Gourmet MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s25553_ll_h3_ac.png" group-title="CULTURA",El Gourmet MX HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79470.ts.ts
+#EXTINF:-1 tvg-id="FOODLA" tvg-name="Food Network HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s91919_ll_h3_aa.png" group-title="CULTURA",Food Network HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79472.ts.ts
+#EXTINF:-1 tvg-id="FOODLA" tvg-name="Food Network HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s91919_ll_h3_aa.png" group-title="CULTURA",Food Network HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79473.ts.ts
+#EXTINF:-1 tvg-id="HGTVLA" tvg-name="HGTV HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s111055_ll_h3_aa.png" group-title="CULTURA",HGTV HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79474.ts.ts
+#EXTINF:-1 tvg-id="HGTVLA" tvg-name="HGTV HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s111055_ll_h3_aa.png" group-title="CULTURA",HGTV HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79475.ts.ts
+#EXTINF:-1 tvg-id="HISPNTV" tvg-name="Hispan TV(E)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/559c38874d0ba37800d727925e1654b4.webp" group-title="CULTURA",Hispan TV(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79476.ts.ts
+#EXTINF:-1 tvg-id="H2LATH" tvg-name="H2 History AR HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s80374_ll_h3_ad.png" group-title="CULTURA",H2 History AR HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79477.ts.ts
+#EXTINF:-1 tvg-id="H2LATH" tvg-name="H2 History MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s80374_ll_h3_ad.png" group-title="CULTURA",H2 History MX HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79478.ts.ts
+#EXTINF:-1 tvg-id="HCCHDA" tvg-name="History Channel AR HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s40137_ll_h3_aa.png" group-title="CULTURA",History Channel AR HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79479.ts.ts
+#EXTINF:-1 tvg-id="HCCHDA" tvg-name="History Channel MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s40137_ll_h3_aa.png" group-title="CULTURA",History Channel MX HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79480.ts.ts
+#EXTINF:-1 tvg-id="NATUR" tvg-name="LOVE NATURE FHD(E)" tvg-logo="https://www.ipuntotv.com/IMAGES/Love-nature-logo.png" group-title="CULTURA",LOVE NATURE FHD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79481.ts.ts
+#EXTINF:-1 tvg-id="NATUR" tvg-name="LOVE NATURE FHD(E)" tvg-logo="https://www.ipuntotv.com/IMAGES/Love-nature-logo.png" group-title="CULTURA",LOVE NATURE FHD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79482.ts.ts
+#EXTINF:-1 tvg-id="NGCCLA" tvg-name="National Geographic AR HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s25068_ll_h3_ab.png" group-title="CULTURA",National Geographic AR HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79486.ts.ts
+#EXTINF:-1 tvg-id="NGCCLA" tvg-name="National Geographic MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s25068_ll_h3_ab.png" group-title="CULTURA",National Geographic MX HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79487.ts.ts
+#EXTINF:-1 tvg-id="NGMUNDO" tvg-name="NatGeo Mundo HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s72449_ll_h3_aa.png" group-title="CULTURA",NatGeo Mundo HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79488.ts.ts
+#EXTINF:-1 tvg-id="NGMUNDO" tvg-name="NatGeo Mundo HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s72449_ll_h3_aa.png" group-title="CULTURA",NatGeo Mundo HD(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79489.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NASA Live Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png" group-title="CULTURA",NASA Live Stream
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79490.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SER TV" tvg-logo="https://sertv.gob.pa/nacionalfm/wp-content/uploads/sites/6/2020/09/SERTV-1.jpg" group-title="CULTURA",SER TV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79491.ts.ts
+#EXTINF:-1 tvg-id="SMITHLA" tvg-name="Smithsonian Channel HD" tvg-logo="http://fanc.tmsimg.com/assets/s108211_ll_h3_aa.png" group-title="CULTURA",Smithsonian Channel HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79492.ts.ts
+#EXTINF:-1 tvg-id="TVAGRHD" tvg-name="TV Agro" tvg-logo="http://fanc.tmsimg.com/assets/s63720_ll_h3_aa.png" group-title="CULTURA",TV Agro
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79493.ts.ts
+#EXTINF:-1 tvg-id="DWEATHS" tvg-name="USA Latino | THE WEATHER CHANNEL ESPAñOL" tvg-logo="http://visi4k.site:8080/images/41f500431d4f421f6b5029ab77e80f1f.png" group-title="CULTURA",USA Latino | THE WEATHER CHANNEL ESPAñOL
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/165861.ts.ts
+#EXTINF:-1 tvg-id="DSCE" tvg-name="Discovery Español HD" tvg-logo="http://fanc.tmsimg.com/assets/s19247_ll_h3_ac.png" group-title="CULTURA",Discovery Español HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/170155.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT Documentary Channel" tvg-logo="https://od.lk/s/MF8yNDcyNTY5Mjhf/RTDoc_300x300.png" group-title="CULTURA",RT Documentary Channel
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/194942.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kanal D Drama" tvg-logo="https://umbrellamedia.ro/wp-content/uploads/2015/11/500x500canal-d.jpg" group-title="ENTRETENIMIENTO",Kanal D Drama
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4693.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION TELENOVELAS HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="ENTRETENIMIENTO",UNIVISION TELENOVELAS HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4778.ts.ts
+#EXTINF:-1 tvg-id="RCNTEL" tvg-name="RCN Novelas SD" tvg-logo="http://fanc.tmsimg.com/assets/s65127_ll_h3_aa.png" group-title="ENTRETENIMIENTO",RCN Novelas SD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/13785.ts.ts
+#EXTINF:-1 tvg-id="ETVAHAM" tvg-name="E! HD" tvg-logo="http://fanc.tmsimg.com/assets/s30259_ll_h3_aa.png" group-title="ENTRETENIMIENTO",E! HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/31960.ts.ts
+#EXTINF:-1 tvg-id="TLCAR" tvg-name="TLC AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s73822_ll_h3_ad.png" group-title="ENTRETENIMIENTO",TLC AR(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46233.ts.ts
+#EXTINF:-1 tvg-id="TLCDLHD" tvg-name="TLC CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s100841_h3_aa.png" group-title="ENTRETENIMIENTO",TLC CO(E)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46234.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Novelas con la abuela" tvg-logo="https://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Novelas con la abuela
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/50481.ts.ts
+#EXTINF:-1 tvg-id="CCLASHD" tvg-name="COMEDY CENTRAL" tvg-logo="http://fanc.tmsimg.com/assets/s100848_ll_h3_ac.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79058.ts.ts
+#EXTINF:-1 tvg-id="GOURNSD" tvg-name="MX: El Gourmet" tvg-logo="http://fanc.tmsimg.com/assets/s25553_ll_h3_ac.png" group-title="ENTRETENIMIENTO",MX: El Gourmet
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79060.ts.ts
+#EXTINF:-1 tvg-id="GOURNSD" tvg-name="SUR: EL GOURMET HD" tvg-logo="http://fanc.tmsimg.com/assets/s25553_ll_h3_ac.png" group-title="ENTRETENIMIENTO",SUR: EL GOURMET HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79061.ts.ts
+#EXTINF:-1 tvg-id="FOODLA" tvg-name="FOOD NETWORK" tvg-logo="http://fanc.tmsimg.com/assets/s91919_ll_h3_aa.png" group-title="ENTRETENIMIENTO",FOOD NETWORK
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79063.ts.ts
+#EXTINF:-1 tvg-id="MASCHHD" tvg-name="Mas Chic" tvg-logo="http://fanc.tmsimg.com/assets/s17457_ll_h3_aa.png" group-title="ENTRETENIMIENTO",Mas Chic
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79064.ts.ts
+#EXTINF:-1 tvg-id="TLCMXH" tvg-name="TLC" tvg-logo="http://fanc.tmsimg.com/assets/s100841_ll_h3_aa.png" group-title="ENTRETENIMIENTO",TLC
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79065.ts.ts
+#EXTINF:-1 tvg-id="FASO4K" tvg-name="Fashion TV 4K" tvg-logo="http://fanc.tmsimg.com/assets/s63665_ll_h3_aa.png" group-title="ENTRETENIMIENTO",Fashion TV 4K
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79066.ts.ts
+#EXTINF:-1 tvg-id="UNVSOHD" tvg-name="NBC UNIVERSO" tvg-logo="http://fanc.tmsimg.com/assets/s91588_ll_h3_ab.png" group-title="ENTRETENIMIENTO",NBC UNIVERSO
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79070.ts.ts
+#EXTINF:-1 tvg-id="TRUTLAA" tvg-name="Tru TV FHD (MX)" tvg-logo="http://fanc.tmsimg.com/assets/s16496_ll_h3_aa.png" group-title="ENTRETENIMIENTO",Tru TV FHD (MX)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79072.ts.ts
+#EXTINF:-1 tvg-id="PASNLAH" tvg-name="CO: PASIONES FHD" tvg-logo="http://fanc.tmsimg.com/assets/s71621_ll_h3_aa.png" group-title="ENTRETENIMIENTO",CO: PASIONES FHD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79073.ts.ts
+#EXTINF:-1 tvg-id="PASNLA" tvg-name="PASIONES HD MX" tvg-logo="http://fanc.tmsimg.com/assets/s71621_ll_h3_aa.png" group-title="ENTRETENIMIENTO",PASIONES HD MX
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79074.ts.ts
+#EXTINF:-1 tvg-id="TLNOHI" tvg-name="Tlenovelas FHD MX" tvg-logo="http://fanc.tmsimg.com/assets/s37232_ll_h3_ab.png" group-title="ENTRETENIMIENTO",Tlenovelas FHD MX
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79075.ts.ts
+#EXTINF:-1 tvg-id="CESTREL" tvg-name="MX: LAS ESTRELLAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s98499_ll_h3_aa.png" group-title="ENTRETENIMIENTO",MX: LAS ESTRELLAS HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79078.ts.ts
+#EXTINF:-1 tvg-id="CANESTR" tvg-name="MX: LAS ESTRELLAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s78628_ll_h3_aa.png" group-title="ENTRETENIMIENTO",MX: LAS ESTRELLAS HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79079.ts.ts
+#EXTINF:-1 tvg-id="GLITZS" tvg-name="GLITZ" tvg-logo="http://fanc.tmsimg.com/assets/s61514_ll_h3_aa.png" group-title="ENTRETENIMIENTO",GLITZ
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/85727.ts.ts
+#EXTINF:-1 tvg-id="LIFEAM" tvg-name="Lifetime HD" tvg-logo="http://fanc.tmsimg.com/assets/s89197_h3_aa.png" group-title="ENTRETENIMIENTO",Lifetime HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/113864.ts.ts
+#EXTINF:-1 tvg-id="LIFELCH" tvg-name="Lifetime HD" tvg-logo="http://fanc.tmsimg.com/assets/s89197_h3_aa.png" group-title="ENTRETENIMIENTO",Lifetime HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/113865.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GlewedTV Yoga & Fitness" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Ogrd459EL.png" group-title="ENTRETENIMIENTO",GlewedTV Yoga & Fitness
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/150496.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/FashionBox_HD_logo.png" group-title="ENTRETENIMIENTO",Fashion Box
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/156961.ts.ts
+#EXTINF:-1 tvg-id="TLCMXH" tvg-name="TLC HD MX" tvg-logo="http://fanc.tmsimg.com/assets/s100841_ll_h3_aa.png" group-title="ENTRETENIMIENTO",TLC HD MX
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/161518.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL GRAN HERMANO 24/7" tvg-logo="https://media.a24.com/p/c717a602e3ca555b3cd31c45407aa4af/adjuntos/296/imagenes/009/065/0009065941/1200x675/smart/santiago-del-moro.jpeg" group-title="ENTRETENIMIENTO",CANAL GRAN HERMANO 24/7
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/171591.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kanal D Drama" tvg-logo="https://w1.pngwing.com/pngs/291/105/png-transparent-cartoon-network-logo-kanal-d-television-television-channel-kanal-7-serial-live-television-blue.png" group-title="ENTRETENIMIENTO",Kanal D Drama
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/96200.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISTRITO COMEDIA" tvg-logo="https://i.imgur.com/HFjeGWh.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/122586.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION TELENOVELAS" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="ENTRETENIMIENTO",UNIVISION TELENOVELAS
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175740.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA CASA DE LOS FAMOSOS 1  24/7" tvg-logo="" group-title="ENTRETENIMIENTO",LA CASA DE LOS FAMOSOS 1  24/7
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/206018.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA CASA DE LOS FAMOSOS 2 24/7" tvg-logo="" group-title="ENTRETENIMIENTO",LA CASA DE LOS FAMOSOS 2 24/7
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/206019.ts.ts
+#EXTINF:-1 tvg-id="UNVSOHD" tvg-name="NBC UNIVERSO" tvg-logo="http://fanc.tmsimg.com/assets/s91588_ll_h3_ab.png" group-title="PREMIER LEAGUE",NBC UNIVERSO
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/79070.ts.ts
+#EXTINF:-1 tvg-id="CXESPN" tvg-name="ESPN 1 SUR" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="PREMIER LEAGUE",ESPN 1 SUR
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/9116.ts.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN 1 SUR FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="PREMIER LEAGUE",ESPN 1 SUR FULL HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/9118.ts.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN 1 CHILE HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="PREMIER LEAGUE",ESPN 1 CHILE HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/9125.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1PREMIER LEAGUE | 4K SUPERSPORT UHD" tvg-logo="" group-title="PREMIER LEAGUE",1PREMIER LEAGUE | 4K SUPERSPORT UHD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205612.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1PREMIER LEAGUE | DAZN 1" tvg-logo="" group-title="PREMIER LEAGUE",1PREMIER LEAGUE | DAZN 1
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205613.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1PREMIER LEAGUE | DAZN 2" tvg-logo="" group-title="PREMIER LEAGUE",1PREMIER LEAGUE | DAZN 2
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205614.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1PREMIER LEAGUE | DAZN 3" tvg-logo="" group-title="PREMIER LEAGUE",1PREMIER LEAGUE | DAZN 3
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205615.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1PREMIER LEAGUE | DAZN 4" tvg-logo="" group-title="PREMIER LEAGUE",1PREMIER LEAGUE | DAZN 4
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205616.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1PREMIER LEAGUE | ESPN 1" tvg-logo="" group-title="PREMIER LEAGUE",1PREMIER LEAGUE | ESPN 1
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205617.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1PREMIER LEAGUE | NBC UNIVERSO" tvg-logo="" group-title="PREMIER LEAGUE",1PREMIER LEAGUE | NBC UNIVERSO
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205618.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1PREMIER LEAGUE | PARAMOUNT +" tvg-logo="" group-title="PREMIER LEAGUE",1PREMIER LEAGUE | PARAMOUNT +
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205619.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1PREMIER LEAGUE | PEACOCK" tvg-logo="" group-title="PREMIER LEAGUE",1PREMIER LEAGUE | PEACOCK
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205620.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1PREMIER LEAGUE | SKY SPORTS" tvg-logo="" group-title="PREMIER LEAGUE",1PREMIER LEAGUE | SKY SPORTS
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205621.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1PREMIER LEAGUE | SKY SPORTS HD" tvg-logo="" group-title="PREMIER LEAGUE",1PREMIER LEAGUE | SKY SPORTS HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/205622.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png" group-title="PREMIER LEAGUE",DAZN 1 FHD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/155620.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO BOSTON" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",TELEMUNDO BOSTON
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4694.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 17 WRIW Providence" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 17 WRIW Providence
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4695.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Miami" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo Miami
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4696.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 26 KFDY Lincoln" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 26 KFDY Lincoln
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4697.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 17 KUAN Poway Etc." tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 17 KUAN Poway Etc.
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4698.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo WEST" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo WEST
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4699.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 36 KXTX Dallas" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 36 KXTX Dallas
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4700.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 29 WSNS Chicago" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 29 WSNS Chicago
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4701.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 19 KSTS San Jose" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 19 KSTS San Jose
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4702.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 34 KTAS San Luis Obispo" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 34 KTAS San Luis Obispo
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4703.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 27 KASA Santa Fe" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 27 KASA Santa Fe
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4704.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Las Vegas" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo Las Vegas
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4705.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo WZDC-WASHINGTON" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo WZDC-WASHINGTON
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4706.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 30 WSCV Fort Lauderdale" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 30 WSCV Fort Lauderdale
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4707.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 16 KHRR Tucson" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 16 KHRR Tucson
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4708.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 15 KVDA San Antonio" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 15 KVDA San Antonio
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4709.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 22 KTMD Galveston" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 22 KTMD Galveston
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4710.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 14 KTLM Rio Grande City" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 14 KTLM Rio Grande City
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4711.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 25 KVEA Corona" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 25 KVEA Corona
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4712.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 20 KBLR Paradise" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 20 KBLR Paradise
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4713.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 26 KTDO Las Cruces" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 26 KTDO Las Cruces
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4714.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 24 KRDO Colorado Springs" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 24 KRDO Colorado Springs
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4715.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Houston" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo Houston
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4716.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 35 WNJU Linden" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 35 WNJU Linden
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4717.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 11 KNSO Merced" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 11 KNSO Merced
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4718.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 29 KTAZ Phoenix" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 29 KTAZ Phoenix
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4719.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 20 KTMW Salt Lake City" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 20 KTMW Salt Lake City
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4720.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 19 KFBI Medford" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 19 KFBI Medford
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4721.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo New Orleans HD" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo New Orleans HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4722.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 24 KXTQ Lubbock" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 24 KXTQ Lubbock
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4723.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 3 KCSO Sacramento" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 3 KCSO Sacramento
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4724.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 17 KUTU Tulsa" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 17 KUTU Tulsa
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4725.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 34 WZDC Washington DC" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 34 WZDC Washington DC
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4726.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 52 Los Angeles" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 52 Los Angeles
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4727.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 31 WTMO Orlando" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 31 WTMO Orlando
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4728.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 23 WDMR Springfield" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 23 WDMR Springfield
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4729.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 34 WZTD Richmond VA" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 34 WZTD Richmond VA
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4730.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 30 WWDT Naples" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 30 WWDT Naples
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4731.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 27 KOHA Omaha" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 27 KOHA Omaha
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4732.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo 30 WRMD Tampa" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 30 WRMD Tampa
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4733.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Internacional HD" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo Internacional HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4734.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO New York" tvg-logo="https://vignette.wikia.nocookie.net/tvstations/images/5/58/Telemundo_47_2018.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",TELEMUNDO New York
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4735.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision Austin HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Austin HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4736.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision Cleveland HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Cleveland HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4737.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision Dallas HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Dallas HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4738.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision East HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision East HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4739.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision Fresno HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Fresno HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4740.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision Houston HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Houston HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4741.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision Los Angeles HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Los Angeles HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4742.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision Las Vegas HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Las Vegas HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4743.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision RALEIGH HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision RALEIGH HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4744.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision New York HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision New York HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4745.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision Philadelphia HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Philadelphia HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4746.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision Phoenix HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Phoenix HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4747.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision Sacramento HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Sacramento HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4748.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision SALT LAKE HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision SALT LAKE HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4749.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision San Antonio HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision San Antonio HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4750.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision San Francisco HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision San Francisco HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4751.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision West HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision West HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4752.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GALAVISION ATLANTA HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/48_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",GALAVISION ATLANTA HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4754.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision Alburquerque Santa Fe HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Alburquerque Santa Fe HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4755.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision MIAMI HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision MIAMI HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4756.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION MIAMI HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION MIAMI HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4768.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION NEW YORK HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION NEW YORK HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4772.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION DALLAS TX HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION DALLAS TX HD
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/4777.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION (KAKW-AUSTIN)" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION (KAKW-AUSTIN)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175714.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION (KDTV-SAN FRANCISCO-OAK-SAN JOSE)" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION (KDTV-SAN FRANCISCO-OAK-SAN JOSE)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175715.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION (KTVW-PHOENIX (PRESCOTT)" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION (KTVW-PHOENIX (PRESCOTT)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175716.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION (WLTV-MIAMI-FT. LAUDERDALE)" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION (WLTV-MIAMI-FT. LAUDERDALE)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175717.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION (WQHS-CLEVELAND-AKRON CANTON)" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION (WQHS-CLEVELAND-AKRON CANTON)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175718.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION (WUVP-PHILADELPHIA PA)" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION (WUVP-PHILADELPHIA PA)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175719.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION (WXTV-NEW YORK NY)" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION (WXTV-NEW YORK NY)
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175720.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION ATLANTA" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION ATLANTA
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175721.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION CHICAGO" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION CHICAGO
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175722.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION DALLAS" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION DALLAS
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175723.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION HOUSTON" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION HOUSTON
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175724.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION LOS ANGELES" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION LOS ANGELES
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175725.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION NETWORK" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION NETWORK
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175726.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TX | SAN ANTONIO | UNIVISION KWEX" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",TX | SAN ANTONIO | UNIVISION KWEX
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175727.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION BOSTON" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION BOSTON
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175728.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA | HANFORD | UNIVISION KFTV" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",CA | HANFORD | UNIVISION KFTV
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175729.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION WASHINGTON" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION WASHINGTON
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175730.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION MCALLEN TEXAS" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION MCALLEN TEXAS
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175731.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION LOS ANGELES" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION LOS ANGELES
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175732.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION DENVER" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION DENVER
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175733.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION CHICAGO" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION CHICAGO
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175734.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION HOUSTON" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION HOUSTON
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175735.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION SAN ANTONIO" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION SAN ANTONIO
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175737.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION EAST" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION EAST
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175738.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION ATLANTA" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION ATLANTA
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175739.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION AUSTIN" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION AUSTIN
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175741.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION PHILADELPHIA" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION PHILADELPHIA
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175742.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION PHOENIX" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION PHOENIX
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175743.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION RALEIGH" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION RALEIGH
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175744.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION  SALT LAKE" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION  SALT LAKE
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175745.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION SAN FRANCISCO" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION SAN FRANCISCO
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175746.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION ALBUQUERQUE SANTA FE" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION ALBUQUERQUE SANTA FE
+http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/175747.ts.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION WEST" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISIO…"
+ https://raw.githubusercontent.com/DJIPTV/colom.m3u/boxtv2/README.md#:~:text=%23EXTM3U%0A%23EXTINF%3A%2D1,42682.ts.ts
