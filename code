@@ -45,4 +45,8 @@ http://45.233.169.13:8000/play/a0ac/index.m3u8
 #EXTINF:-1,Tooncast
 http://45.233.169.13:8000/play/a0ba/index.m3u8
 
+#EXTINF:-1,Discovery Kids 2
+http://clubtv.link/2407j/top5554/lista.php?c=210&f=.m3u8
 
+#EXTINF:-1,HBO Family 
+http://clubtv.link/2407j/top5554/lista.php?c=73&f=.m3u8
