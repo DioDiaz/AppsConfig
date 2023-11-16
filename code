@@ -45,8 +45,11 @@ http://45.233.169.13:8000/play/a0ac/index.m3u8
 #EXTINF:-1,Tooncast
 http://45.233.169.13:8000/play/a0ba/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://vertelevisionenvivo.com/wp-content/uploads/2021/06/image.png",Nick
+#EXTINF:-1,Nick
 http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
 
-#EXTINF:-1tvg-logo="https://tse3.mm.bing.net/th?id=OIP.BQhumjlBeiUiHr_JDHTjSQHaEJ&pid=Api&P=0&h=180",CBBC
+#EXTINF:-1,CBBC
 http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
+
+#EXTINF:-1,DreamWorks Channel
+http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
