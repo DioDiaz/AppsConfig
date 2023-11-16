@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno-"63",RAKUTEN KIDS
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno-"64",ANIME STATION
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno-"65",MAGIC KIDS
+https://cageu.bozztv.com/ssh101/ssh101/magic2019/playlist.m3u8
+
+#EXTINF:-1 tvg-chno-"66",MUNDO PEQUEÑO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
+
+#EXTINF:-1 tvg-chno-"67",PLANETA AVENTURAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311 
+
+#EXTINF:-1 tvg-chno-"68",GOgo PLAY BO 
+https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
+
+#EXTINF:-1 tvg-chno-"69",Plim Plim TV
+http://181.78.78.105:8000/play/a02i/index.m3u8
+
