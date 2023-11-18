@@ -11,7 +11,10 @@ http://45.166.92.22:58001/play/a02n/index.m3u8
 #EXTINF:-1 tvg-ID="Animal Planet" (International)" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg/512px-AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg.png?20190129212957" group-title="LATINOS",Animal Planet
 http://45.166.92.22:58001/play/a00m/index.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Discovery_Channel_1995.svg/revision/latest/scale-to-width-down/200?cb=20210530055921" group-title="LATINOS",Discovery Channel
+#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="LATINOS",ESPN 4 HD
+http://45.166.92.22:58001/play/a02m/index.m3u8
+
+
 
 #EXTINF:-1 tvg-ID="HISTORY Channel" tvg-name="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg" group-title="LATINOS",HISTORY HD
 http://45.166.92.22:58001/play/a038/index.m3u8
@@ -23,8 +26,6 @@ https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/Cq8FlfxJeh42eZ9Ws4Reqvv4jAQ
 http://45.166.92.22:58001/play/a04a/index.m3u8
 #EXTINF:-1 tvg-ID="Univision Channel (Latin America)" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/462px-Univision_logo.svg.png" group-title="LATINOS",Univision HD
 http://45.166.92.22:58001/play/a01r/index.m3u8
-#EXTINF:-1 tvg-ID="TyCSports Channel (Latin America)" tvg-name="TyCSports" tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="LATINOS",TyCSports HD
-http://45.166.92.22:58001/play/a04d/index.m3u8
 #EXTINF:-1 tvg-ID="Telemundo Channel (Latin America)" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="LATINOS",Telemundo HD
 http://45.166.92.22:58001/play/a00r/index.m3u8
 #EXTINF:-1 tvg-ID="CINECANAL Channel (Latin America)" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="LATINOS",CINECANAL SD
