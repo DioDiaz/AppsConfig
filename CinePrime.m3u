@@ -12,14 +12,7 @@ http://45.166.92.22:58001/play/a02n/index.m3u8
 http://45.166.92.22:58001/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Discovery_Channel_1995.svg/revision/latest/scale-to-width-down/200?cb=20210530055921" group-title="LATINOS",Discovery Channel
-#EXTINF:-1 tvg-ID="ESPN HD (Latin America)" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="LATINOS",ESPN HD
-http://45.166.92.22:58001/play/a01g/index.m3u8
-#EXTINF:-1 tvg-ID="ESPN 3 Channel (Latin America)" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="LATINOS",ESPN 3 HD
-http://45.166.92.22:58001/play/a01h/index.m3u8
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="LATINOS",ESPN 4 HD
-http://45.166.92.22:58001/play/a02m/index.m3u8
-#EXTINF:-1 tvg-ID="FOX SPORTS 3 Channel (Latin America)" tvg-name="FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="LATINOS",FOX SPORTS 3 HD
-http://45.166.92.22:58001/play/a01j/index.m3u8
+
 #EXTINF:-1 tvg-ID="HISTORY Channel" tvg-name="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg" group-title="LATINOS",HISTORY HD
 http://45.166.92.22:58001/play/a038/index.m3u8
 #EXTINF:-1 tvg-ID="WARNER Channel" tvg-name="WARNER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/280px-Warner_Channel_HD.svg.png" group-title="LATINOS",WARNER HD
