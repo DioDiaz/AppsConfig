@@ -5,3 +5,5 @@ http://45.166.92.22:58001/play/a01g/index.m3u8
 http://45.166.92.22:58001/play/a01h/index.m3u8
 #EXTINF:-1 tvg-ID="FOX SPORTS 3 Channel (Latin America)" tvg-name="FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="LATINOS",FOX SPORTS 3 HD
 http://45.166.92.22:58001/play/a01j/index.m3u8
+#EXTINF:-1 tvg-ID="TyCSports Channel (Latin America)" tvg-name="TyCSports" tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="LATINOS",TyCSports HD
+http://45.166.92.22:58001/play/a04d/index.m3u8
