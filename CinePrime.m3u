@@ -11,8 +11,6 @@ http://45.166.92.22:58001/play/a02n/index.m3u8
 #EXTINF:-1 tvg-ID="Animal Planet" (International)" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg/512px-AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg.png?20190129212957" group-title="LATINOS",Animal Planet
 http://45.166.92.22:58001/play/a00m/index.m3u8
 
-#EXTINF:-1 tvg-ID="Cartoon Network NT Channel (Latin America)" tvg-name="Cartoon Network NT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="LATINOS",CARTOON NT HD
-http://45.166.92.22:58001/play/a03y/index.m3u8
 #EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Discovery_Channel_1995.svg/revision/latest/scale-to-width-down/200?cb=20210530055921" group-title="LATINOS",Discovery Channel
 #EXTINF:-1 tvg-ID="ESPN HD (Latin America)" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="LATINOS",ESPN HD
 http://45.166.92.22:58001/play/a01g/index.m3u8
