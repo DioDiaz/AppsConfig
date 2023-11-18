@@ -1,11 +1,8 @@
 #EXTM3U
 
 #EXTINF:0 tvg-ID="Heart",Te Amo Mamita Aleja
-https://uc2ef5312d2997a9409478925a54.previews.dropboxusercontent.com/p/hls_playlist/ACFkHDZ_yQkl9TmbXrKvIxW7fi-_XZV8V3nSOAJTZyOOdLliV8cbAtXg_VPcMOSAh7whr4hUZGF17KAmxVMwdVHDX6prBhNr4gDRPOXAwDf4WmrPJPCORogTEzTPFm1qAi8rKDi94cKx6H2XMH1YY-Cr-PbKcweuIgOwWq61wV8NqLjEUwch8_TPJfRhFI3dMmlMW7K6KAh0zHlxrpfpNzhq9owqBgarb41DsmNYZNpY_eY6UccP_msXHt1NHYpMrXeTee-qScVZ1WoyWbf2Q0z5gqBwj66n_6PKlF-gdHS2mrTDBebG4aETQjvg10xcw6YZjjOFYvRE8Ko10ecXQB1R/p.m3u8?
+https://uc2ef5312d2997a9409478925a54.previews.dropboxusercontent.com/p/hls_playlist/ACFkHDZ_yQkl9TmbXrKvIxW7fi-_XZV8V3nSOAJTZyOOdLliV8cbAtXg_VPcMOSAh7whr4hUZGF17KAmxVMwdVHDX6prBhNr4gDRPOXAwDf4WmrPJPCORogTEzTPFm1qAi8rKDi94cKx6H2XMH1YY-Cr-PbKcweuIgOwWq61wV8NqLjEUwch8_TPJfRhFI3dMmlMW7K6KAh0zHlxrpfpNzhq9owqBgarb41DsmNYZNpY_eY6UccP_msXHt1NHYpMrXeTee-qScVZ1WoyWbf2Q0z5gqBwj66n_6PKlF-gdHS2mrTDBebG4aETQjvg10xcw6YZjjOFYvRE8Ko10ecXQB1R/p.m3u8?use_highest_audio_bitrate=1#t=0.0033333333333333335
 
-
-#EXTINF:-1 tvg-ID="Boomerang Channel (Latin America)" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/150px-2020_Canal_DHE_logo.svg.png" group-title="LATINOS",Boomerang Channel
-http://45.166.92.22:58001/play/a00v/index.m3u8
 
 
 #EXTINF:-1 tvg-ID="Discovery Kids HD" (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20221209230406&path-prefix=es" group-title="LATINOS",Discovery Kids HD
