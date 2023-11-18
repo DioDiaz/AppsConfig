@@ -1,7 +1,23 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-ID="AMC (Latin America)  747" tvg-name="AMC" tvg-logo="https://www.pngkey.com/png/full/243-2431424_amc-hd-amc-tv.png" group-title="LATINOS",AMC 1 HD
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMC/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=1469357611&_cdn_timestamp=1700341003&_cdn_token=b7e64b121ad28811a0b2c9d9fe563772600513c4
-#EXTINF:-1 tvg-ID="CINECANAL Channel (Latin America)" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="LATINOS",CINECANAL SD http://45.166.92.22:58001/play/a02f/index.m3u8 #EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Boomerang_2006-2008_logo.svg/300px-Boomerang_2006-2008_logo.svg.png" group-title="LATINOS",Boomerang HD http://45.166.92.22:58001/play/a02u/index.m3u8 #EXTINF:-1 tvg-ID="Boomerang Channel (Latin America)" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/150px-2020_Canal_DHE_logo.svg.png" group-title="LATINOS",DHE HD http://45.166.92.22:58001/play/a00v/index.m3u8 #EXTINF:-1 tvg-ID="DISCOVERY THEATER Channel (Latin America)" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/120px-2015_Discovery_theater_HD_logo.svg.png" group-title="LATINOS",DISCOVERY THEATER HD http://45.166.92.22:58001/play/a014/index.m3u8 #EXTINF:-1 tvg-ID="CNN Español Channel (Latin America)" tvg-name="CNN Español" tvg-logo="https://w7.pngwing.com/pngs/986/942/png-transparent-cnn-en-espanol-hd-logo-thumbnail.png" group-title="LATINOS",CNN Español http://45.166.92.22:58001/play/a036/index.m3u8
+
+#EXTINF:-1 tvg-ID="CINECANAL Channel (Latin America)" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="LATINOS",CINECANAL SD 
+http://45.166.92.22:58001/play/a02f/index.m3u8 
+
+#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Boomerang_2006-2008_logo.svg/300px-Boomerang_2006-2008_logo.svg.png" group-title="LATINOS",Boomerang HD 
+http://45.166.92.22:58001/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-ID="Boomerang Channel (Latin America)" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/150px-2020_Canal_DHE_logo.svg.png" group-title="LATINOS",DHE HD 
+http://45.166.92.22:58001/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-ID="DISCOVERY THEATER Channel (Latin America)" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/120px-2015_Discovery_theater_HD_logo.svg.png" group-title="LATINOS",DISCOVERY THEATER HD 
+http://45.166.92.22:58001/play/a014/index.m3u8 
+
+#EXTINF:-1 tvg-ID="CNN Español Channel (Latin America)" tvg-name="CNN Español" tvg-logo="https://w7.pngwing.com/pngs/986/942/png-transparent-cnn-en-espanol-hd-logo-thumbnail.png" group-title="LATINOS",CNN Español
+http://45.166.92.22:58001/play/a036/index.m3u8
+
 #EXTINF:-1 tvg-ID="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="LATINOS",HISTORY 2 HD
 http://45.166.92.22:58001/play/a04x/index.m3u8
 
