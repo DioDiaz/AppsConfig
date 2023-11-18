@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-ID="Discovery Kids HD" (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20221209230406&path-prefix=es" group-title="LATINOS",Discovery Kids HD
 http://45.166.92.22:58001/play/a04y/index.m3u8
 
+#EXTINF:-1 tvg-ID="DISNEY Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="LATINOS",DISNEY HD
+http://45.166.92.22:58001/play/a04q/index.m3u8
+
 
 #EXTINF:-1 tvg-ID="Cartoon Network (Latin America - Panregional)" tvg-name="Cartoon Network" tvg-logo="http://158.69.127.19/oscuros/cartoonnetwork.png" group-title="LATINOS",Cartoon Network
 http://45.166.92.22:58001/play/a03y/index.m3u8
