@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTINF:0 tvg-ID="Heart",Te Amo Mamita Aleja
-https://uc2ef5312d2997a9409478925a54.previews.dropboxusercontent.com/p/hls_playlist/ACF4sdB2V6X4PyRTKVYq-XqxwhuygB36H7Oy1aaCaAg-4Ky0ww0Bq80OOC5t4s0_tGgDxr87pTYsfv9CGCSdKlu4IVXxQAURfprg7L5qMGYgdszIxO6P-Jl9Z479CaCobPdG6oRhq64lvOd-8I-BYyatlNU6Hae0OlKGxsIEw7nDSLM0VoOWo9UFSy1THckgUVW16pnhHe3QLElNY-j_lio8u3dfF8PfUng3rSDQ8fKKzdQykaZyRtLTCa7sAisvOnO6jHHb6vmONID58NZjbsX7T5q-6nBDxRNEB2pAErBJ5A/p.m3u8?bps=192000&type=audio
+https://uc2ef5312d2997a9409478925a54.previews.dropboxusercontent.com/p/hls_playlist/ACFkHDZ_yQkl9TmbXrKvIxW7fi-_XZV8V3nSOAJTZyOOdLliV8cbAtXg_VPcMOSAh7whr4hUZGF17KAmxVMwdVHDX6prBhNr4gDRPOXAwDf4WmrPJPCORogTEzTPFm1qAi8rKDi94cKx6H2XMH1YY-Cr-PbKcweuIgOwWq61wV8NqLjEUwch8_TPJfRhFI3dMmlMW7K6KAh0zHlxrpfpNzhq9owqBgarb41DsmNYZNpY_eY6UccP_msXHt1NHYpMrXeTee-qScVZ1WoyWbf2Q0z5gqBwj66n_6PKlF-gdHS2mrTDBebG4aETQjvg10xcw6YZjjOFYvRE8Ko10ecXQB1R/p.m3u8?hw_acceleration=False&size=1080x1920&type=video
+
 
 #EXTINF:-1 tvg-ID="Boomerang Channel (Latin America)" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/150px-2020_Canal_DHE_logo.svg.png" group-title="LATINOS",Boomerang Channel
 http://45.166.92.22:58001/play/a00v/index.m3u8
