@@ -60,8 +60,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/logos/5c12fe491cbd932b678e3d80.png",Nick Jr. 
-https://stitcher.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?
-
+https://stitcher.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a17f488d-8627-11ee-9326-867546f9d6ce
 
 
 
