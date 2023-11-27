@@ -1,59 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1,CO | Canal 1 HD 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174518 
-#EXTINF:-1,CO | Caracol FHD 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174521 
-#EXTINF:-1,Caracol Internacional FHD 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174523 
-#EXTINF:-1,CO | RCN FHD 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174525 
-#EXTINF:-1,CO | RCN Internacional 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174527 
-#EXTINF:-1,CO | RCN Nuestra Tele FHD 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174528 
-#EXTINF:-1,CO | Cable Noticias HD
-http://pe.shortgod.com/20s5a5/tv4.php?id=174529 
-#EXTINF:-1,CO | El Trece HD 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174530 
-#EXTINF:-1,CO | NTN24 HD 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174531
-#EXTINF:-1,CO | Telantioquia HD 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174533 
-#EXTINF:-1,CO | CARACOL HD2 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174534 
-#EXTINF:-1,CO | Canal Capital
-http://pe.shortgod.com/20s5a5/tv4.php?id=174535 
-#EXTINF:-1,CO | City TV 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174536 
-#EXTINF:-1,CO | Canal TRO 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174537 
-#EXTINF:-1,CO | SeÃ±al Colombia 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174538 
-#EXTINF:-1,CO | Telecafe 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174539 
-#EXTINF:-1,CO | Telecaribe 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174540 
-#EXTINF:-1,CO | Telemedellin HD 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174541 
-#EXTINF:-1,CO | TeleCafe 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174542
-#EXTINF:-1,CO | Telecaribe HD 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174543 
-#EXTINF:-1,CO | TelePacifico HD 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174544
-#EXTINF:-1,CO | La Kalle HD 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174545 
-#EXTINF:-1,CO | City TV 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174546
-#EXTINF:-1,CO | Cosmovision 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174547
-#EXTINF:-1,CO | El Tiempo 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174548 
-#EXTINF:-1,RADIO VALLENATOS CLASICOS 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174550 
-#EXTINF:-1,RADIO LA VIEJOTA DE RICKY 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174551 
-#EXTINF:-1,CO | CALI TV 
-http://pe.shortgod.com/20s5a5/tv4.php?id=174552
+#EXTINF:-1 tvg-chno-"75",CANAL UNO
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
+EXTINF:-1 tvg-chno-"78",CARACOL
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+
+#EXTINF:-1 tvg-chno-"80",CN
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+
+
+
 
