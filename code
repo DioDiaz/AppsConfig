@@ -21,9 +21,6 @@ http://45.166.92.22:58001/play/a03y/index.m3u8
 #EXTINF:-1,RAKUTEN KIDS
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,ANIME STATION
-https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
-
 #EXTINF:-1,MUNDO PEQUEÑO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 
@@ -44,7 +41,7 @@ http://45.233.169.13:8000/play/a0a8/index.m3u8
 http://45.233.169.13:8000/play/a0ab/index.m3u8
 
 
-#EXTINF:-1,Nick
+#EXTINF:-1,Nick 1
 http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
 
 #EXTINF:-1,Baby TV
@@ -71,12 +68,18 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 #EXTINF:-1 group-title="Infantiles", TOON TUBERS
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 group-title="Infantiles", CARTOON NETWORK 4
-
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Nick Clasico" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Nick Clasico
+https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Nick Pluto TV" tvg-logo="https://i.imgur.com/7OhZ4zw.jpg" tvg-shift="0" group-title="Pluto TV Latino",Nick Pluto TV 
+https://i.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8 #E
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UncMGn5.png" group-title="Familiares",Chilevisual Kids HD
+https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YLRzeS8.png" group-title="Familiares",Cine Family 1
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UbZXTKF.jpg" group-title="Familiares",Pitufo TV 
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Rf86qk2.jpg" group-title="Familiares",Cine Family 2
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
