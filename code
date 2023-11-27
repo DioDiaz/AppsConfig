@@ -15,16 +15,14 @@ http://45.166.92.22:58001/play/a04y/index.m3u8
 http://45.166.92.22:58001/play/a04q/index.m3u8
 
 
-#EXTINF:-1,Cartoon Network 2
+#EXTINF:-1,Cartoon Network USA
 http://45.166.92.22:58001/play/a03y/index.m3u8
 
-#EXTINF:-1,RAKUTEN KIDS
-https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,MUNDO PEQUEÑO
+#EXTINF:-1,Mundo Pequeño
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 
-#EXTINF:-1,PLANETA AVENTURAS
+#EXTINF:-1,Planeta Aventura
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311 
 
 #EXTINF:-1,GOgo PLAY BO 
@@ -50,7 +48,7 @@ http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
 #EXTINF:-1,DreamWorks Channel
 http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
 
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1,Toon Tubers
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
 #EXTINF:-1,Cartoonito
@@ -63,11 +61,11 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqwFbosbfW9UE7yxPuX7XU83htlU2nombOH9Mtlxv8ASAtEZBKm8OIdjMjagbZX1qak1dDk_E_txmJdhnH5V05xOFDPOu1Lp7XQO1ftQkmVmsVDI46R2NoRqpc1XAj0ghpq_VpaaQwMsACtnuHBu8LGsFUzpyL9I4oL7jE7n-phmWHxMYQwLhHqpqxUUkKtpkvEaemiOtX2-nM8EFXRQAzmD_nEIj2wydymSFpDOBUfgKaxBtH1L0OS6KCp3AOyq79rZHNMcoeSB3iFOKt4a0G9lx3KrmBcTe4DfH_of5a0CEvP6VNVDQV-E5RcB3ULY9DQEnw9lHvcUCu-A0Ko67vfBP5vgXqigtHL31if-H0Fr44SyjsRglCTp0PO1uylj5twgnh7GAYN-BW9tW1fu-26Aakh0d4nmv28yAeWyXF5FN7sDsApwBK76TCpeVBs_2vmTUXNva_iPVLBb-R-8v0Qo45z8WG1bEJ-erFkdg2Wv6hWofVuK5km-KowVjJhGRmbnk2yy1prn6b_ZyohFRbeoyhY83FLebiskirJhKQiH1MqHLnPifyShmNsIDwub0aX0E2bTTatmdM4wrtbCI1VegBNJnn3Xo3BsUHpxT44DJa0b-8UoJPvLpd1mzOXkS7koJLaG2ndv0a7iHbcfOlz9BuFiI02Zqm17VfBdzMiF0OJb6I0ddQ753UClmu5bZM3RH_e6kNgd6IxidCB2wGfhYYoeXclehP3HNgU8MZNv6QR2yNeZNmVR6aBiDjkPhCHpcscy4ARIet9OWPjIMLd96DrgROBfp8FzUbgQYnjmMNK9bdE0TPGLDNzuMzoPnUMyr7KMkC4rmxg3R6It2oXBf93YrhXhNMAVjWF6MbqVeVnEqWyn-HsTAgDAAzoncm6OFTzcdOYg9Ta20tCLGgw9gGj1QoxhxkYaLOMgASoJdXMtZWFzdC0xMMAG.m3u8
 
 
-#EXTINF:-1 group-title=Infantiles", CARTOON NETWORK 3
+#EXTINF:-1 group-title=Infantiles", Cartoon Network 3
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
-#EXTINF:-1 group-title="Infantiles", TOON TUBERS
+#EXTINF:-1 group-title="Infantiles", Toon Tubers
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1 group-title="Infantiles", CARTOON NETWORK 4
+#EXTINF:-1 group-title="Infantiles",Thomas y Sus Amigos
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Nick Clasico" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Nick Clasico
