@@ -1,61 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="HBOCHIH",HBO HD MX (DG)
+#EXTINF:-1 tvg-id="HBOCHIH",HBO HD
 http://181.78.105.146:6060/play/a00h
 
-#EXTINF:-1 tvg-id="HBOCHIH",HBO AR(E)
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46145.ts.ts
-
-#EXTINF:-1 tvg-id="HBOCHIL" ,HBO CH(E)
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46146.ts.ts
-
-#EXTINF:-1 tvg-id="HBOCHIL" ,HBO CO(E)
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46147.ts.ts
-
-#EXTINF:-1 tvg-id="HBO2LA",HBO 2 SD(E)
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46148.ts.ts
-
-#EXTINF:-1 tvg-id="HBO2LA",HBO 2 AR(E)
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46149.ts.ts
-
-#EXTINF:-1 tvg-id="HBOCHIH",HBO 2 CO(E)
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46150.ts.ts
-
-#EXTINF:-1 tvg-id="HBO2PNH",HBO 2 HD MX(E)
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46151.ts.ts
-
-#EXTINF:-1 tvg-id="HBOFMHD",HBO Family AR(E)
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46152.ts.ts
-
-#EXTINF:-1 tvg-id="DHBOFAM",HBO Family CO(E)
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46153.ts.ts
-
-#EXTINF:-1 tvg-id="HBOFAM",HBO Family MX (DG)
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46154.ts.ts
-
-#EXTINF:-1 tvg-id="DHBOFAM",HBO Family HD
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46155.ts.ts
-
-#EXTINF:-1 tvg-id="HBODA",HBO Plus AR(E)
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46156.ts.ts
-
-#EXTINF:-1 tvg-id="HBODA",HBO Plus CO(E)
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46157.ts.ts
-
-#EXTINF:-1 tvg-id="HBODA",HBO Plus HD(E)
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46158.ts.ts
-
-#EXTINF:-1 tvg-id="HBODA",HBO Plus HD MX(CL)
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46159.ts.ts
-
-#EXTINF:-1 tvg-id="HBOSDA",HBO Signature CO(E)
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46161.ts.ts
-
-#EXTINF:-1 tvg-id="HBOSDA",HBO Signature MX(E)
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46162.ts.ts
-
-#EXTINF:-1 tvg-id="HBOSDA",HBO Signature HD(E)
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46163.ts.ts
 
 #EXTINF:-1 tvg-ID="HBO Channel (Latin America)" tvg-name="HBO" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-hd-este_m.png" group-title="LATINOS",HBO HD
 http://45.166.92.22:58001/play/a03s/index.m3u8
