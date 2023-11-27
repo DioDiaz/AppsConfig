@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="HBOCHIH",HBO HD MX (DG)
-
+http://181.78.105.146:6060/play/a00h
 
 #EXTINF:-1 tvg-id="HBOCHIH",HBO AR(E)
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46145.ts.ts
@@ -66,5 +66,10 @@ http://45.166.92.22:58001/play/a03u/index.m3u8
 #EXTINF:-1 tvg-ID="HBO XTREME" tvg-name="HBO XTREME" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="LATINOS",HBO XTREME HD
 http://45.166.92.22:58001/play/a03w/index.m3u8
 
-
+EXTINF:-1 tvg-id="HBO+" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png"
+http://45.179.140.242:8000/play/a0la
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png"
+http://45.179.140.242:8000/play/a0l9
+#EXTINF:-1 tvg-id="HBO Xtreme USA" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png"
+http://181.78.105.146:6060/play/a00l
 
