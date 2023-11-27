@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="HBOCHIH",HBO HD MX (DG)
-http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46144.ts.ts
+
 
 #EXTINF:-1 tvg-id="HBOCHIH",HBO AR(E)
 http://mael-tv.online:8080/live/Frankmolina1977/9w3AGAv38V/46145.ts.ts
