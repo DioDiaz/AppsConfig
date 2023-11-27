@@ -64,3 +64,19 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u
 
 #EXTINF:-1,Dragon Ball
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqwFbosbfW9UE7yxPuX7XU83htlU2nombOH9Mtlxv8ASAtEZBKm8OIdjMjagbZX1qak1dDk_E_txmJdhnH5V05xOFDPOu1Lp7XQO1ftQkmVmsVDI46R2NoRqpc1XAj0ghpq_VpaaQwMsACtnuHBu8LGsFUzpyL9I4oL7jE7n-phmWHxMYQwLhHqpqxUUkKtpkvEaemiOtX2-nM8EFXRQAzmD_nEIj2wydymSFpDOBUfgKaxBtH1L0OS6KCp3AOyq79rZHNMcoeSB3iFOKt4a0G9lx3KrmBcTe4DfH_of5a0CEvP6VNVDQV-E5RcB3ULY9DQEnw9lHvcUCu-A0Ko67vfBP5vgXqigtHL31if-H0Fr44SyjsRglCTp0PO1uylj5twgnh7GAYN-BW9tW1fu-26Aakh0d4nmv28yAeWyXF5FN7sDsApwBK76TCpeVBs_2vmTUXNva_iPVLBb-R-8v0Qo45z8WG1bEJ-erFkdg2Wv6hWofVuK5km-KowVjJhGRmbnk2yy1prn6b_ZyohFRbeoyhY83FLebiskirJhKQiH1MqHLnPifyShmNsIDwub0aX0E2bTTatmdM4wrtbCI1VegBNJnn3Xo3BsUHpxT44DJa0b-8UoJPvLpd1mzOXkS7koJLaG2ndv0a7iHbcfOlz9BuFiI02Zqm17VfBdzMiF0OJb6I0ddQ753UClmu5bZM3RH_e6kNgd6IxidCB2wGfhYYoeXclehP3HNgU8MZNv6QR2yNeZNmVR6aBiDjkPhCHpcscy4ARIet9OWPjIMLd96DrgROBfp8FzUbgQYnjmMNK9bdE0TPGLDNzuMzoPnUMyr7KMkC4rmxg3R6It2oXBf93YrhXhNMAVjWF6MbqVeVnEqWyn-HsTAgDAAzoncm6OFTzcdOYg9Ta20tCLGgw9gGj1QoxhxkYaLOMgASoJdXMtZWFzdC0xMMAG.m3u8
+
+
+#EXTINF:-1 group-title=Infantiles", CARTOON NETWORK 3
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:-1 group-title="Infantiles", TOON TUBERS
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 group-title="Infantiles", CARTOON NETWORK 4
+
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+
+
+
+
+
+
+
