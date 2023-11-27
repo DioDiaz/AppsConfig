@@ -23,3 +23,8 @@ http://45.177.98.42:9800/play/064
 #EXTINF:-1,Adult Swim LA
 https://mesh.zappix.live/mnp/adultswim/output.mpd
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="LATINO",Senal Colombia 
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+
