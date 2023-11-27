@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno-"75",CANAL UNO
+#EXTINF:-1,CANAL UNO
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
-EXTINF:-1 tvg-chno-"78",CARACOL
+EXTINF:-1,CARACOL
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
-#EXTINF:-1 tvg-chno-"80",CN
+#EXTINF:-1,Cable Noticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
 
