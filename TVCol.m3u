@@ -1,31 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1,CANAL UNO
-https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-
-EXTINF:-1,CARACOL
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-
 #EXTINF:-1,Cable Noticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
-#EXTINF:-1,Win Sport +
-https://ymy7utmtwxtsb8p2.cdnreinforce.net:8443/hls/4hkxq20b10a3u69.m3u8?s=otLo_OiUVi1Ri5eQ2swWrw&e=1701088251
 
-#EXTINF:-1 group-title="Bics Extra", TELEMUNDO LA
+#EXTINF:-1 group-title="Bics Extra", TELEMUNDO 52
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
-#EXTINF:-1 group-title="Bics Extra", RCN EXTRA CO
+#EXTINF:-1 group-title="Bics Extra", RCN EXTRA
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra", RCN Mas+ CO
+#EXTINF:-1 group-title="Bics Extra", RCN Mas+
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics Extra MX", BITME
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
-#EXTINF:-1 group-title="Bics Extra MX", ADULT SWIM
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/760
-#EXTINF:-1 group-title="Bics Extra MX", E!
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/692
-
 
 
 
