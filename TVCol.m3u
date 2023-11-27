@@ -17,6 +17,9 @@ http://190.61.46.126:8000/play/a01h/index.m3u8
 #EXTINF:-1,Caracol
 http://190.61.46.126:8000/play/a03m/index.m3u8
 
+#EXTINF:-1,Caracol 2
+http://155.138.235.123:8081/app/caracol/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",RCN FHD
 http://45.177.98.42:9800/play/064
 
