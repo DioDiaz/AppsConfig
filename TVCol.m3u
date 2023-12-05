@@ -18,7 +18,7 @@ http://190.61.46.126:8000/play/a01h/index.m3u8
 http://190.61.46.126:8000/play/a03m/index.m3u8
 
 #EXTINF:-1,Caracol 2
-http://155.138.235.123:8081/app/caracol/playlist.m3u8
+http://tv.teleclub.xyz/envivo/Mundo/CARACOLTV/index.m3u8
 
 #EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",RCN FHD
 http://45.177.98.42:9800/play/064
@@ -32,6 +32,31 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PMyOfgc.png" group-title="JOVENES Y ADULTOS",Wow Channel
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-300 tvg-logo="https://lc.cx/qQMuBT" group-title="COLOMBIA", CORDOVA TV
+https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
+
+#EXTINF:-301 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Caracol_Television_Lo_Mejor_Para_Ti.png" group-title="COLOMBIA", CARACOL 3
+http://tv.teleclub.xyz/envivo/Mundo/CARACOLTV/index.m3u8
+#EXTINF:-178 tvg-logo="https://i.postimg.cc/gjmxSjGn/vision_dorada_tv.jpg" group-title="COLOMBIA", VISIÓN DORADA TV
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-179 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rcn-xtra_2.png" group-title="COLOMBIA", RCN EXTRA | HD
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/3000.m3u8
+
+#EXTINF:-180 tvg-logo="https://i.imgur.com/any5MCR.png" group-title="COLOMBIA", Canal CNC Medellin | SD
+https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/index.m3u8
+#EXTINF:-58 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/psc.jpg" group-title="COLOMBIA", PSC TV
+https://stmv4.voxtvhd.com.br/psctv/psctv/chunklist_w1790667369.m3u8
+#EXTINF:-72 group-title="COLOMBIA" tvg-logo="https://cdn.m3u.cl/logo/1285_La_Despechada_TV.png",LA DESPECHADA
+https://servidordevideo.com:3077/hybrid/play.m3u8
+
+
+
+
+
+
+
 
 
 
