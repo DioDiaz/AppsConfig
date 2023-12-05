@@ -1,11 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Cine y series",HBO 2 HD
-http://132.255.21.139:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="Cine y series",HBO Family HD
-http://132.255.21.139:8000/play/a02s/index.m3u8
-#EXTINF:-1 group-title="Cine y series",HBO HD
-http://132.255.21.139:8000/play/a01n/index.m3u8
-#EXTINF:-1 group-title="Cine y series",HBO POP HD
-http://132.255.21.139:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="SERVIDOR 2", HBO 
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="SERVIDOR 2", HBO 2 
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_2/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="SERVIDOR 2", HBO + 
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_PLUS/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWB6lC9.jpg" group-title="SERVIDOR 2", HBO Mundi 
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_MUNDI/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="SERVIDOR 2", HBO Pop 
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_POP/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="SERVIDOR 2", HBO Signature 
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_SIGNATURE/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="SERVIDOR 2", HBO Xtreme 
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_XTREME/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="SERVIDOR 2", HBO Family 
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_FAMILY/index.m3u8 
+
+
 
