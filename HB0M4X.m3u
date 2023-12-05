@@ -25,4 +25,14 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_XTREME/index.m3u8
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_FAMILY/index.m3u8 
 
 
+#EXTINF:-1 tvg-ID="HBO Channel (Latin America)" tvg-name="HBO" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-hd-este_m.png" group-title="LATINOS",HBO HD
+http://45.166.92.22:58001/play/a03s/index.m3u8
+#EXTINF:-1 tvg-ID="HBO PLUS Channel" tvg-name="HBO PLUS" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="LATINOS",HBO PLUS HD
+http://45.166.92.22:58001/play/a03u/index.m3u8
+#EXTINF:-1 tvg-ID="HBO XTREME" tvg-name="HBO XTREME" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="LATINOS",HBO XTREME HD
+http://45.166.92.22:58001/play/a03w/index.m3u8
+#EXTINF:-1 tvg-ID="Paramount HD" tvg-name="Paramount HD" tvg-logo="https://i.ebayimg.com/images/g/Qf0AAOSw30NidGrj/s-l500.jpg" group-title="LATINOS",Paramount HD
+http://45.166.92.22:58001/play/a01l/index.m3u8
+
+
 
