@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BTVPanama.pa" tvg-logo="https://i.imgur.com/CiYVtgB.png" group-title="General",BTV Panama
-https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
+#EXTINF:-1 tvg-id="BTVPanama.pa" tvg-logo="https://i.imgur.com/CiYVtgB.png" group-title="General",Boca TV Panama
+https://stream.oursnetworktv.com/latin/btvpanama/chunklist_w1266770779.m3u8
 #EXTINF:-1 tvg-id="CabinaRPCRadio.pa" tvg-logo="https://i.imgur.com/BIxfM03.png" group-title="",Cabina RPC Radio
 https://mdstrm.com/live-stream-playlist/5d976689ab55a60f94ec98e8.m3u8
 #EXTINF:-1 tvg-id="CabinaTelemetroRadio.pa" tvg-logo="https://i.imgur.com/X9NLS5K.png" group-title="",Cabina Telemetro Radio
@@ -43,4 +43,11 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="VisionLatina.pa" tvg-logo="https://i.imgur.com/TG30lWA.jpg" group-title="Religious",Vision Latina
 https://5940924978228.streamlock.net/8095/8095/playlist.m3u8
+
+#EXTINF:-1,DW,
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:-1,RT
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1,Demo TV
+https://tvservices.fullhd-streaming.com:3941/stream/play.m3u8
 
