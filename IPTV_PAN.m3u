@@ -52,4 +52,10 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 https://tvservices.fullhd-streaming.com:3941/stream/play.m3u8
 #EXTINF:-1 tvg-id="ANTV.pa" tvg-logo="https://i.imgur.com/UAqcj4Z.png" group-title="Legislative",ANTV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/28aad57d1f7e4f13be8d0c8390f679b2/chunklist_b2028000.m3u8
+#EXTINF:-1,PANAMA | SER TV
+http://elmonkey.us:25461/john/1234/91449
+#EXTINF:-1,PANAMA | TELEMETRO
+http://elmonkey.us:25461/john/1234/91450
+#EXTINF:-1,PANAMA | Hosanna Vision
+http://elmonkey.us:25461/john/1234/91451
 
