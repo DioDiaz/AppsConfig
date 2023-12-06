@@ -43,12 +43,17 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/3000.m3u8
 #EXTINF:-58 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/psc.jpg" group-title="COLOMBIA", PSC TV
 https://stmv4.voxtvhd.com.br/psctv/psctv/chunklist_w1790667369.m3u8
 
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,TeleSur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1,Canal Capital
+https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-700/index.m3u8
+#EXTINF:-1,Caracol TV 3
+https://rpn3.bozztv.com/ssh101/ssh101/c1ewafaw/playlist.m3u8
+#EXTINF:-1,Canal Uno
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+#EXTINF:-1,Cable Noticias
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:-1,Canal Red+ 
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:-1,TV Peñol
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
