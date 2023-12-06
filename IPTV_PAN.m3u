@@ -26,7 +26,7 @@ https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 #EXTINF:-1 tvg-id="SomosCulturaTV.pa" tvg-logo="https://i.imgur.com/kWR3END.png" group-title="Culture",Somos Cultura TV
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemetro.pa" tvg-logo="https://i.imgur.com/vJJrGgV.png" group-title="General",Telemetro
-https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
+http://209.91.213.10:8088/play/a00h
 #EXTINF:-1 tvg-id="TropicalMoonCumbiaTV.pa" tvg-logo="https://i.imgur.com/jL1kLyS.png" group-title="Music",Tropical Moon Cumbia TV
 https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TropicalMoonEventosTV.pa" tvg-logo="https://i.imgur.com/RklPmml.png" group-title="General",Tropical Moon Eventos TV
