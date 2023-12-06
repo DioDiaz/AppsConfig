@@ -7,3 +7,8 @@ http://45.166.92.22:58001/play/a01h/index.m3u8
 http://45.166.92.22:58001/play/a01j/index.m3u8
 #EXTINF:-1 tvg-ID="TyCSports Channel (Latin America)" tvg-name="TyCSports" tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="LATINOS",TyCSports HD
 http://45.166.92.22:58001/play/a04d/index.m3u8
+
+
+#EXTINF:-1 channel-id="pluto-5df975e2b27cf5000921c102" tvg-id="5df975e2b27cf5000921c102" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" tvg-chno="2590" group-title="Sports" , beIN SPORTS XTRA
+https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
+
