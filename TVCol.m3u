@@ -8,6 +8,10 @@ https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
+#EXTINF:-1,CNN
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI0IDEwOjU6NDAgQU0maGFzaF92YWx1ZT1PODVkQ1NaMzJTeitMN1B1TlQwWlB3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OWE1ZjBjNWYtNjE1MS00NzBiLWFjODYtMDFjNGRlYzI1NTZh/
+
+
 #EXTINF:-1 group-title="Bics Extra", TELEMUNDO 52
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
 #EXTINF:-1 group-title="Bics Extra", RCN EXTRA
