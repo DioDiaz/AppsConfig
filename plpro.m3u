@@ -54,7 +54,9 @@ http://200.80.230.123:8000/play/a0bf/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.telegratishd.com/imge/terror.png" tvg-id="" group-title="CINE",TERROR 24/7
 https://gtechtecnologia.com/telelatino/play/196.m3u8
-              
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS223-DIhaIa7QhQgiLlAkcJI4cyyJ-myCFwKNFTc3p5g&s=10" tvg-id="" group-title="CINE",SONY CINEMA
+https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 
 
 : "
