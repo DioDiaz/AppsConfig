@@ -5,6 +5,12 @@
 #EXTINF:-1 group-title="CANALES DE PARAGUAY" tvg-logo="tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg" ,MEGA TV
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg" tvg-id="" group-title="CANALES DE PARAGUAY",MEGA TV
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
+
+
+
+
 #EXTINF:-1 group-title="CANALES DE PARAGUAY" tvg-logo="tvg-logo="https://i0.wp.com/logoroga.com/wp-content/uploads/2017/10/nanduti-previa.png?w=1000&ssl=1" ,ÑANDUTI TV
 https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_baja/playlist.m3u8
 
