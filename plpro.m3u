@@ -1,19 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg" group-title="CANALES DE PARAGUAY",MEGA TV  PY
+
+# CANALES DE PARAGUAY 
+
+#EXTINF:-1 group-title="CANALES DE PARAGUAY" tvg-logo="tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg" ,MEGA TV
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/logoroga.com/wp-content/uploads/2017/10/nanduti-previa.png?w=1000&ssl=1" group-title="CANALES DE PARAGUAY",ÑANDUTI TV
+#EXTINF:-1 group-title="CANALES DE PARAGUAY" tvg-logo="tvg-logo="https://i0.wp.com/logoroga.com/wp-content/uploads/2017/10/nanduti-previa.png?w=1000&ssl=1" ,ÑANDUTI TV
 https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_baja/playlist.m3u8
-#EXTINF:
+
+#EXTINF:-1 group-title="CANALES DE PARAGUAY" tvg-logo="tvg-logo="https://i.postimg.cc/x1gwws1Q/misiontv.jpg" ,MISION TV DIGITAL
+https://glb.bozztv.com/glb/ssh101/misiontvlive/index.m3u8
 
 
-
-
-                "name": "MISION TV DIGITAL",
-                "url": "https://glb.bozztv.com/glb/ssh101/misiontvlive/index.m3u8",
-                "icono": "https://i.postimg.cc/x1gwws1Q/misiontv.jpg"
-            },
-            {
                 "name": "SALTOS TV DIGITAL",
                 "url": "https://ssh101.bozztv.com/ssh101/redcanindeyu/chunks.m3u8",
                 "icono": "https://i.postimg.cc/5yCHGY5c/saltostv.jpg"
