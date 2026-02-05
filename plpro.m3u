@@ -39,7 +39,7 @@ https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.pngkey.com/png/full/139-1393003_el-garage-tv-garage-tv-logo.png" tvg-id="" group-title="CANALES DE ARGENTINA",GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" tvg-id="" group-title="CANALES DE ARGENTINA",CIUDAD MAGAZINE
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" tvg-id="" group-title="CANALES DE ARGENTINA",CIUDAD MAGAZINE
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="https://i.ibb.co/njgDHwJ/unnamed.webp" group-title="CANALES DE ARGENTINA",TYC SPORT (PLAY 1)
