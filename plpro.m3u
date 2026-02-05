@@ -2,8 +2,10 @@
 
 # CANALES DE PARAGUAY 
 
-#EXTINF:-1 group-title="CANALES DE PARAGUAY" tvg-logo="tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg" ,MEGA TV
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg" tvg-id="" group-title="CANALES DE PARAGUAY",MEGA TV
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg" tvg-id="" group-title="CANALES DE PARAGUAY",MEGA TV
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
