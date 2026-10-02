@@ -1,8 +1,7 @@
 
 #EXTM3U
 
-#EXTM3U
-#EXTINF:-1 tvg-id="00sReplay.us@SD" tvg-logo="https://i.ibb.co/sFW2jR0/Screenshot-20231118-232059-Chrome.jpg" group-title="Gianluca Channel ♡",00s Replay
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFW2jR0/Screenshot-20231118-232059-Chrome.jpg" group-title="Gianluca Channel ♡",Gianluca Channel ♡
 https://embed-ssl.wistia.com/deliveries/96e5c021b85fc5b715975dbb9daf3da17839d923/file.mp4
 
 
